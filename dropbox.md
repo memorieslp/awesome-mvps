@@ -3,6 +3,7 @@
 File hosting service
 ### Type of MVP: Video
 MVP created in 2007.
+
 Link to the original video uploaded by theragax: https://youtu.be/7QmCUDHpNzE 
 
 **Hypothesis**: People want to easily share folders with documents and pictures on their PC, with other people, using a file hosting service.
