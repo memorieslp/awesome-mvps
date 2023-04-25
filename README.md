@@ -23,14 +23,14 @@ MVP created in 1999.
 
 **Description**: A website that resells shoes from multiple shoe stores, however most of the backend is done manually, like the pictures of the shoes that were taken by Nick Swinmurn, the founder, by visiting shoe stores. Swinmurn would also go to the real stores, buy the shoes, and send them to the costumer that bought the shoes on his online website.
 
-![image](https://user-images.githubusercontent.com/42478443/232846204-d4551792-ca75-45f5-94fe-a1f765bbeb2c.png)
+![zappos_mvp](https://user-images.githubusercontent.com/42478443/232846204-d4551792-ca75-45f5-94fe-a1f765bbeb2c.png)
 
 [🔼 Back to top](#awesome-mvps)
 
 <!-- Dropbox -->
 <h2 align="left">Dropbox</h2>
-### Company: Dropbox
 File hosting service
+
 ### Type of MVP: Video
 MVP created in 2008.
 
@@ -53,4 +53,6 @@ Advantages of this method:
 - The video showed how the system would work, without the need to spend a lot of time and money to create the feature.
 - It validades the hypothesis with the number of new users that registered to their beta version, that went from 5,000 to 75,000 in one day.
 
-![image](https://user-images.githubusercontent.com/42478443/233408890-56e05c2f-6c10-44a0-b811-4cc88fb35ca4.png =450x450)
+![dropbox_mvp](https://user-images.githubusercontent.com/42478443/234365910-f37a14ca-e129-4cbc-83b7-fc3ca0316a94.png)
+
+[🔼 Back to top](#awesome-mvps)
