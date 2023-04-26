@@ -9,6 +9,7 @@ Welcome to awesome-mvps!
   <ol>
     <li><a href="#zappos">Zappos</a></li>
     <li><a href="#dropbox">Dropbox</a></li>
+    <li><a href="#easy-taxi">Easy Taxi</a></li>
   </ol>
 </details>
 
@@ -16,12 +17,12 @@ Welcome to awesome-mvps!
 <h2 align="left">Zappos</h2>
 Online shoe and clothing retailer store
 
-#### Type of MVP: The Wizard of Oz
-MVP created in 1999.
+#### Type: The Wizard of Oz
+**Date**: 1999.
 
-**Hypothesis**: An online retailer store for shoes would make it much easier for people to buy the shoes they want to, without the need to go to multiple stores to find the shoes they want to.
+**Hypothesis**: An online retailer store for shoes would make it much easier for people to buy the shoes they want to, without the need to go to multiple stores to find shoes.
 
-**Description**: A website that resells shoes from multiple shoe stores, however most of the backend is done manually, like the pictures of the shoes that were taken by Nick Swinmurn, the founder, by visiting shoe stores. Swinmurn would also go to the real stores, buy the shoes, and send them to the costumer that bought the shoes on his online website.
+**Description**: A website that resells shoes from multiple shoe stores. However, most of the backend was done manually. Nick Swinmurn, the founder, would visit shoe stores beforehand, taking pictures and checking the prices of the shoes, so he could add those details to his website. Once a product was ordered, Swinmurn would go back to the stores to buy the shoes, mailing them to the address of the costumer.
 
 ![zappos_mvp](https://user-images.githubusercontent.com/42478443/232846204-d4551792-ca75-45f5-94fe-a1f765bbeb2c.png)
 
@@ -31,28 +32,33 @@ MVP created in 1999.
 <h2 align="left">Dropbox</h2>
 File hosting service
 
-### Type of MVP: Video
-MVP created in 2008.
+#### Type: Video
+**Date**: 2008.
 
-Link to the original video uploaded by theragax: https://youtu.be/7QmCUDHpNzE 
+Link to the original mvp video, uploaded by theragax: https://youtu.be/7QmCUDHpNzE 
 
-**Hypothesis**: People want to easily share folders with documents and pictures on their PC, with other people, using a file hosting service.
+**Hypothesis**: People want to easily share documents and pictures with other people, using a file hosting service.
 
 **Description**: A video that shows how the share system of their file hosting service works, created to see if people would have interest on the idea.
 
-Use of casual language:
-- The founder, Drew Houston, used a very casual and friendly wording on his video, to make it appeal to more people.
-- Some hidden jokes were present in the video.
-- This method made Drew look likable and relatable.
-
-Video showed how to use the feature, and why it is useful for people:
-- The video is almost like a tutorial, showing how the features work.
-- It all works fast and simple, making it sell the idea of a well made product.
-
-Advantages of this method:
-- The video showed how the system would work, without the need to spend a lot of time and money to create the feature.
-- It validades the hypothesis with the number of new users that registered to their beta version, that went from 5,000 to 75,000 in one day.
+The founder, Drew Houston, used a very casual and friendly wording on his video, to make it appeal to more people, using some hidden jokes through the video. This method made Drew look likable and relatable. The mvp showed how to use the feature, almost like a tutorial, which was also an oportunity to show why a file hosting service could be useful to people. It works fast and simple on the video, making it sell the idea of a well made product. Houston was able to validate the hypothesis with the number of new users that registered to their beta version, that went from 5,000 to 75,000 in one day.
 
 ![dropbox_mvp](https://user-images.githubusercontent.com/42478443/234365910-f37a14ca-e129-4cbc-83b7-fc3ca0316a94.png)
+
+[🔼 Back to top](#awesome-mvps)
+
+<!-- Easy Taxi -->
+<h2 align="left">Easy Taxi</h2>
+
+Mobile App for taxi hailing.
+
+#### Type: The Wizard of Oz
+**Date**: 2011.
+
+**Hypothesis**: People would like a service that arranges a taxi for them.
+
+**Description**: A web page that people would ask for a cab, with the backend done manually. A costumer would order a taxi through the Easy Taxi website, giving their address and name. This process would generate an email to the founders, containing the information given by the costumers, which they would use to call a cab company. This method did not require the creation of a robust system that tracks the location of the user, or that automatically finds a taxi driver based on the address of the costumer, making it easier and cheaper to validate the hypothesis.
+
+![image](https://user-images.githubusercontent.com/42478443/233426377-72b3c2e7-f625-4706-a838-601eac4f1d83.png)
 
 [🔼 Back to top](#awesome-mvps)
