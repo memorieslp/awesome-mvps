@@ -12,6 +12,7 @@ Welcome to awesome-mvps!
     <li><a href="#facebook">Facebook</a></li>
     <li><a href="#tinder">Tinder</a></li>
     <li><a href="#easy-taxi">Easy Taxi</a></li>
+    <li><a href="#instagram">Instagram</a></li>
   </ol>
 </details>
 
@@ -96,5 +97,21 @@ Mobile App for taxi hailing.
 **Description**: A web page that people would ask for a cab, with the backend done manually. A costumer would order a taxi through the Easy Taxi website, giving their address and name. This process would generate an email to the founders, containing the information given by the costumers, which they would use to call a cab company. This method did not require the creation of a robust system that tracks the location of the user, or that automatically finds a taxi driver based on the address of the costumer, making it easier and cheaper to validate the hypothesis.
 
 ![easy-taxi](https://user-images.githubusercontent.com/42478443/233426377-72b3c2e7-f625-4706-a838-601eac4f1d83.png)
+
+[🔼 Back to top](#awesome-mvps)
+
+<!-- Instagram -->
+<h2 align="left">Instagram</h2>
+
+A social network focused on sharing photos and videos.
+
+#### Type: Single Feature
+**Date**: 2010.
+
+**Hypothesis**: People are interested in sharing their meetings at public places.
+
+**Description**: Instagram was first called Burbn, an app about sharing your experiences on public places, with gamifications like being able to score points when posting a meeting. The app was not successful. However, after some analysis and collecting some feedback, the founders realized that people enjoyed the photo-sharing feature a lot. Burbn then performed a Zoom-In pivot, changing its name to Instagram and focusing on one single feature of the original app, which was the possibility of sharing photographies. The founders believed that photo sharing was strong enough to sustain an entire social media, so they wanted to make it easy to share pictures, with straight forward filters that did not require any knowledge on photo editing.
+
+![instagram_mvp](https://user-images.githubusercontent.com/42478443/234920799-87fcaa62-66f4-4989-956c-6dcfeaf91519.png)
 
 [🔼 Back to top](#awesome-mvps)
