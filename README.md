@@ -10,6 +10,7 @@ Welcome to awesome-mvps!
     <li><a href="#zappos">Zappos</a></li>
     <li><a href="#dropbox">Dropbox</a></li>
     <li><a href="#facebook">Facebook</a></li>
+    <li><a href="#tinder">Tinder</a></li>
     <li><a href="#easy-taxi">Easy Taxi</a></li>
   </ol>
 </details>
@@ -63,6 +64,22 @@ Online social networking service.
 Later on, Facebook decided to focus on being a social media for any person, and not just Harvard students, increasing the amount of features over time and adapting them to a wider public.
 
 ![facebook_mvp](https://user-images.githubusercontent.com/42478443/234598165-ac972af8-8bd6-4eb7-a9ba-d9d50145f521.png)
+
+[🔼 Back to top](#awesome-mvps)
+
+<!-- Tinder -->
+<h2 align="left">Tinder</h2>
+
+Online dating app.
+
+#### Type: Single Feature
+**Date**: 2012.
+
+**Hypothesis**: People would like to easily arrange a date and set up a meeting.
+
+**Description**: An app that allows people to make profiles focused on dating. If two profiles like each other, they get a match, allowing them to talk to each other and arrange a real life date if they want to. Tinder was first called MatchBox, and its features barely changed over time, because it was a very focused and simple idea, that early on, proved to work with its success among university students. At first, you would give a like or dislike on another profile. However, only one year later after the first MVP, the developers changed the like and dislike buttons to a swipe feature, where you swipe right to like and left to dislike, giving it a unique feel that was not common at the time. Not only the swap feature made the process of showing interest to a person faster, but it also gave an identity to the app, making it more iconic.
+
+![tinder_mvp](https://user-images.githubusercontent.com/42478443/234894559-d9ca572b-d4c9-4067-9c89-d2e77c55e545.png)
 
 [🔼 Back to top](#awesome-mvps)
 
