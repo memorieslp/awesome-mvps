@@ -9,11 +9,11 @@ Welcome to awesome-mvps!
   <ol>
     <li><a href="#zappos">Zappos</a></li>
     <li><a href="#dropbox">Dropbox</a></li>
-    <li><a href="#facebook">Facebook</a></li>
-    <li><a href="#tinder">Tinder</a></li>
+    <li><a href="#facebook">Facebook **new!**</a></li>
+    <li><a href="#tinder">Tinder **new!**</a></li>
     <li><a href="#easy-taxi">Easy Taxi</a></li>
-    <li><a href="#instagram">Instagram</a></li>
-    <li><a href="#food-on-the-table">Food on the Table</a></li>
+    <li><a href="#instagram">Instagram **new!**</a></li>
+    <li><a href="#food-on-the-table">Food on the Table **new!**</a></li>
   </ol>
 </details>
 
