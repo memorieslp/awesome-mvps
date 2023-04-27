@@ -9,7 +9,7 @@ Welcome to awesome-mvps!
   <ol>
     <li><a href="#zappos">Zappos</a></li>
     <li><a href="#dropbox">Dropbox</a></li>
-    <li><a href="#easy-taxi">Facebook</a></li>
+    <li><a href="#facebook">Facebook</a></li>
     <li><a href="#easy-taxi">Easy Taxi</a></li>
   </ol>
 </details>
