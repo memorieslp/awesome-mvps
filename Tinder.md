@@ -3,15 +3,11 @@
 
 Online dating app.
 
-#### Type: Evolutionary
-**Date**: 2004.
+#### Type: Single Feature
+**Date**: 2012.
 
-**Hypothesis**: Students would like to share their university experiences though a social website that connects people.
+**Hypothesis**: People would like to easily arrange a date and set up a meeting.
 
-**Description**: A social media website that allows students, from Harvard, to connect with people they've met at the university, sharing their experiences around the campus and creating discussions related to the institution. At first, Mark Zuckerberg, the founder of Facebook, created a website, in 2003, called Face Share, where people could vote which students were the most beautiful, and was mostly used as a joke. Harvard took the website down. However, it still worked as an inspiration for Zuckerberg to keep students engaged with each other through the internet, which lead to the creation of The Facebook, Mark's first real MVP.
+**Description**: An app that allows people to make profiles focused on dating. If two profiles like each other, they get a match, allowing them to talk to each other and arrange a real life date if they want to. Tinder was first called MatchBox, and its features barely changed over time, because it was a very focused and simple idea, that early on, proved to work with its success among university students. At first, you would give a like or dislike on another profile. However, only one year later after the first MVP, the developers changed the like and dislike buttons to a swipe feature, where you swipe right to like and left to dislike, giving it a unique feel that was not common at the time. Not only the swap feature made the process of showing interest to a person faster, but it also gave an identity to the app, making it more iconic.
 
-Later on, Facebook decided to focus on being a social media for any person, and not just Harvard students, increasing the amount of features over time and adapting them to a wider public.
-![image](https://user-images.githubusercontent.com/42478443/234888195-836e2e0e-e844-4f75-9e86-bd68e2116394.png)
-
-
-[🔼 Back to top](#awesome-mvps)
+![tinder_mvp](https://user-images.githubusercontent.com/42478443/234894559-d9ca572b-d4c9-4067-9c89-d2e77c55e545.png)
