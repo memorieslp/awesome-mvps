@@ -13,6 +13,7 @@ Welcome to awesome-mvps!
     <li><a href="#tinder">Tinder</a></li>
     <li><a href="#easy-taxi">Easy Taxi</a></li>
     <li><a href="#instagram">Instagram</a></li>
+    <li><a href="#food-on-the-table">Food on the Table</a></li>
   </ol>
 </details>
 
@@ -113,5 +114,21 @@ A social network focused on sharing photos and videos.
 **Description**: Instagram was first called Burbn, an app about sharing your experiences on public places, with gamifications like being able to score points when posting a meeting. The app was not successful. However, after some analysis and collecting some feedback, the founders realized that people enjoyed the photo-sharing feature a lot. Burbn then performed a Zoom-In pivot, changing its name to Instagram and focusing on one single feature of the original app, which was the possibility of sharing photographies. The founders believed that photo sharing was strong enough to sustain an entire social media, so they wanted to make it easy to share pictures, with straight forward filters that did not require any knowledge on photo editing.
 
 ![instagram_mvp](https://user-images.githubusercontent.com/42478443/234920799-87fcaa62-66f4-4989-956c-6dcfeaf91519.png)
+
+[🔼 Back to top](#awesome-mvps)
+
+<!-- Food on the Table -->
+<h2 align="left">Food on the Table</h2>
+
+An app that helps you plan meals based on your own preferences and on the ingredients's prices near your home.
+
+#### Type: Concierge
+**Date**: 2004.
+
+**Hypothesis**: People would like to have an app that shows them recipes for meals that they have interest in, while also showing nearby groceries that have the best prices for the ingredients they need.
+
+**Description**: The MVP was a manual process, with no programing required or any use of external tools. The founders would talk to people, find out their preferences, go to the supermakets and grocery stores to check the prices of the ingredients, and deliver them to their clients. It started with one client, and slowly scalated to more and more people. The founders were able to learn the nuances of this project, by talking to people and learning how the process works in practice, while also not spending any time or money on programing a very ambitious and complex app that they did not know if it had a future and a place on the market.
+
+![food-on-the-table_mvp](https://user-images.githubusercontent.com/42478443/234931770-66526bc5-b28d-4463-a086-54259a891b96.png)
 
 [🔼 Back to top](#awesome-mvps)
