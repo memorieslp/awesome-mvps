@@ -12,7 +12,7 @@ Welcome to awesome-mvps!
 | Video  | A video that shows your product, usually presenting its features while also selling why your idea is good deserves to be on the market | <a href="#dropbox">Dropbox</a>  |
 | Concierge  | The entire product is done manually by people, without a functional product | <a href="#food-on-the-table">Food on the Table</a>  |
 | The Wizard of Oz | While the user can interact with the product, the backend is actually done by people without the user even noticing it | <a href="#zappos">Zappos</a>, <a href="#easy-taxi">Easy Taxi</a>, <a href="#amazon">Amazon</a> |
-| Piecemeal | It works like The Wizard of Oz, however the backend uses tools to facilitate the manual process | Nothing |
+| Piecemeal | It works like The Wizard of Oz, however the backend uses tools to facilitate the manual process | <a href="#groupon">Groupon</a> |
 | Single Feature | The product only has one single feature, usually the one that is the most important and represents well the identity of the product | <a href="#facebook">Facebook</a>, <a href="#tinder">Tinder</a>, <a href="#instagram">Instagram</a> |
 
 <!-- Content -->
@@ -28,6 +28,7 @@ Welcome to awesome-mvps!
     <li><a href="#instagram">Instagram</a></li>
     <li><a href="#food-on-the-table">Food on the Table</a></li>
     <li><a href="#amazon">Amazon **new!**</a></li>
+    <li><a href="#groupon">Groupon **new!**</a></li>
   </ol>
 </details>
 
@@ -163,5 +164,23 @@ Jeff Bezos, the founder, started testing this hyphothesis by scaling it down to 
 Bezoz would add more types of products over the time, slowly validating his main hypothesis.
 
 ![amazon_mvp](https://user-images.githubusercontent.com/42478443/235662931-99e8336f-4b37-4a70-be7b-d0706a49fdd3.png)
+
+[🔼 Back to top](#awesome-mvps)
+
+<!-- Groupon -->
+<h2 align="left">Groupon</h2>
+
+An e-commerce marketplace where you can hire and visit local services.
+
+#### Type: Piecemeal
+**Date**: 2007.
+
+**Hypothesis**: People would like to find places to visit and services to hire with ease and with a cheaper price.
+
+**Description**: A website where people receives coupons on their emails, however the backend was done manually with the help of external tools. Groupon was first called The First, and it was a website where people would use social media for a cause or common goal. Andrew Mason, the founder, realized that people were using The First to make a group of people buy a product with the goal of gaining a discount. A Costumer Need pivot happened, where Andrew decided to solve a problem from his costumers that he did not think about, which was the ability to get discounts for products and services. Groupon was created and it was very simple. All it did, at first, was to send emails to the people that worked on the same building as Andrew, with a coupon discount to the pizza restaurant that was also present on the same building. It later on scalated to a website where part of the backend used a script that would automatically send the coupons to the buyier.
+
+![the-point_mvp](https://user-images.githubusercontent.com/42478443/235687281-9f409ddd-4625-4186-97ab-405507ec4493.png)
+
+![groupon_mvp](https://user-images.githubusercontent.com/42478443/235681743-17d8e188-747b-4692-a92c-38d484186c56.png)
 
 [🔼 Back to top](#awesome-mvps)
