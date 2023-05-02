@@ -13,7 +13,7 @@ Welcome to awesome-mvps!
 | Concierge  | The entire product is done manually by people, without a functional product | <a href="#food-on-the-table">Food on the Table</a>  |
 | The Wizard of Oz | While the user can interact with the product, the backend is actually done by people without the user even noticing it | <a href="#zappos">Zappos</a>, <a href="#easy-taxi">Easy Taxi</a>, <a href="#amazon">Amazon</a> |
 | Piecemeal | It works like The Wizard of Oz, however the backend uses tools to facilitate the manual process | <a href="#groupon">Groupon</a> |
-| Single Feature | The product only has one single feature, usually the one that is the most important and represents well the identity of the product | <a href="#facebook">Facebook</a>, <a href="#tinder">Tinder</a>, <a href="#instagram">Instagram</a> |
+| Single Feature | The product only has one single feature, usually the one that is the most important and represents well the identity of the product | <a href="#facebook">Facebook</a>, <a href="#tinder">Tinder</a>, <a href="#instagram">Instagram</a>, <a href="#twitter">Twitter</a> |
 
 <!-- Content -->
 <h2 align="left">Content</h2>
@@ -29,6 +29,7 @@ Welcome to awesome-mvps!
     <li><a href="#food-on-the-table">Food on the Table</a></li>
     <li><a href="#amazon">Amazon **new!**</a></li>
     <li><a href="#groupon">Groupon **new!**</a></li>
+    <li><a href="#twitter">Twitter **new!**</a></li>
   </ol>
 </details>
 
@@ -182,5 +183,21 @@ An e-commerce marketplace where you can hire and visit local services.
 ![the-point_mvp](https://user-images.githubusercontent.com/42478443/235687281-9f409ddd-4625-4186-97ab-405507ec4493.png)
 
 ![groupon_mvp](https://user-images.githubusercontent.com/42478443/235681743-17d8e188-747b-4692-a92c-38d484186c56.png)
+
+[🔼 Back to top](#awesome-mvps)
+
+<!-- Twitter -->
+<h2 align="left">Twitter</h2>
+
+Online social networking service.
+
+#### Type: Single Feature
+**Date**: 2006.
+
+**Hypothesis**: People want to easily get in touch with friends through fast messages, that are shared to all the user's followers.
+
+**Description**: A social media website that allows people to follow people and write short messages that can be seen by other people. The feed of this website had a list of messages from people you follow. The idea started as just a fast way for employees to comunicated with each other, and after seein the success of this idea amongst the company, Jack Dorsey decided to make a proper social media, that was originally called twttr. The idea was original and not seein anywhere else on the internet, so it was hard to define, at the time, what twttr actually was. As time passed, it became clear Twitter would also be about spreading information between groups of people that are interested on the same topic, moving away from just being about updating your friends about your daily lifes.
+
+![twitter_mvp](https://user-images.githubusercontent.com/42478443/235714298-65d2c34c-6316-4ecd-bce9-a3886da7671d.png)
 
 [🔼 Back to top](#awesome-mvps)
