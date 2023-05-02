@@ -15,7 +15,8 @@ Welcome to awesome-mvps!
 | Piecemeal | It works like The Wizard of Oz, however the backend uses tools to facilitate the manual process | Nothing |
 | Single Feature | The product only has one single feature, usually the one that is the most important and represents well the identity of the product | <a href="#facebook">Facebook</a>, <a href="#tinder">Tinder</a>, <a href="#instagram">Instagram</a> |
 
-<!-- Index -->
+<!-- Content -->
+<h2 align="left">Content</h2>
 <details open="open">
 <summary>List of MVPs</summary>
   <ol>
