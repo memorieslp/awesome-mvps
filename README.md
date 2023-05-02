@@ -1,9 +1,10 @@
 <!-- Logo -->
 <h1 align="center">awesome-mvps</h1>
 
-<!-- Index -->
-Welcome to awesome-mvps!
+<!-- Description -->
+Welcome to awesome-mvps! 
 
+<!-- Index -->
 <details open="open">
 <summary>List of MVPs</summary>
   <ol>
@@ -17,7 +18,7 @@ Welcome to awesome-mvps!
   </ol>
 </details>
 
-<!-- Zapos -->
+<!-- Zappos -->
 <h2 align="left">Zappos</h2>
 Online shoe and clothing retailer store
 
