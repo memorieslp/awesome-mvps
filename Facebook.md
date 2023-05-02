@@ -3,7 +3,7 @@
 
 Online social networking service.
 
-#### Type: Evolutionary
+#### Type: Single Feature
 **Date**: 2004.
 
 **Hypothesis**: Students would like to share their university experiences though a social website that connects people.
