@@ -2,7 +2,45 @@
 <h1 align="center">awesome-mvps</h1>
 
 <!-- Description -->
-Welcome to awesome-mvps! 
+Welcome to awesome-mvps, a repository with a Catalog of MVPs! 
+
+<!-- What are MVPs? -->
+<h2 align="left">What are MVPs?</h2>
+
+MVPs are Minimum Viable Products, a simplified version of a finished product. The use of this term can vary depending on what people consider as "minimum". My favorite definition is the one from Ries, the author of the Lean Startup book that is probably the most influential book about MVPs: 
+
+*"A Minimum Viable Product is the version of a product that demands less effort to make, while also being able to provide the maximum amount of validating learning"*, Ries from Lean Startup.
+
+Steve Blank, another important figure that has discussed about MVPs and their importance, that is also the author of the famous book called "The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses", gives a more technical point of view for what a MVP is:
+
+*"The MVP is a group of features that is enough to release your product to the market"*, Steve Blank.
+
+<!-- MVPs are part of a Learning Process -->
+<h2 align="left">MVPs are part of a Learning Process</h2>
+
+The main advantage of MVPs is that they are part of a process, called **Learning Process** by Ries, which can be simplified as: 
+<li>Coming up with an idea (**hypothesis**) and a plan</li>
+<li>Creating a MVP to test your hypothesis on the market</li>
+<li>Gathering feedback from the users and learning from it</li>
+<li>Coming up with a new hyphotesis, changing your current hypothesis to a new one, or adapting your current hypothesis</li>
+
+The Learning Process is a cycle. Once you start to change your product according to the feedback you received, you have to create a new MVP or alter your current one so the users can try the MVP again and give you more feedback.
+
+This process can vary depending on what type of product you are making and on the size and resources of your company.
+
+<!-- Hypothesis and their importance for MVPs -->
+<h2 align="left">Hypothesis and their importance for MVPs</h2>
+
+Hypothesis shape the identity of your product. They can describe your product fundamentally by proposing a solution to a problem the market has interest in solving, or they can be about how you solve said problem, or they can be a characteristic of your product.
+
+The act of studying your hypothesis is called **hypothesis validation**. If your hypothesis is validated, then it means this characteristic of your product that is represented by the hypothesis has a market interested in it. This is why it is important to validate the more important hypothesis first... If you try to make a product based on a problem that the market has no interest in solving it, or if the solution to that problem is not being solved in a way that the market wants to, then it means you might need to fundamentally change your product or scrap it. 
+
+<!-- Motivation for checking out this Catalog of MVPs -->
+<h2 align="left">Motivation for checking out this Catalog of MVPs</h2>
+
+MVPs are those small effort products that are still able to validate hypothesis. It means that a MVP can help you learn if the identity of your product will have a market for it, without you spending a lot of time and money. However, knowing how your MVP should be made, and how to utilize well the Learning Process is not a trivial task.
+
+The Catalog of MVPs presented on this repository has the goal of showing real life examples of how you can use MVPs to validate your product.
 
 <!-- Types of MVPs -->
 <h2 align="left">Types of MVPs</h2>
