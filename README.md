@@ -47,6 +47,7 @@ The Catalog of MVPs presented on this repository has the goal of showing real li
 
 | MVP  | Description| Examples
 | ------------- | ------------- | ------------- |
+| Landing Page | Description | <a href="#buffer">Buffer</a>
 | Video  | A video that shows your product, usually presenting its features while also selling why your idea is good deserves to be on the market | <a href="#dropbox">Dropbox</a>  |
 | Concierge  | The entire product is done manually by people, without a functional product | <a href="#food-on-the-table">Food on the Table</a>  |
 | The Wizard of Oz | While the user can interact with the product, the backend is actually done by people without the user even noticing it | <a href="#zappos">Zappos</a>, <a href="#easy-taxi">Easy Taxi</a>, <a href="#amazon">Amazon</a> |
@@ -65,9 +66,10 @@ The Catalog of MVPs presented on this repository has the goal of showing real li
     <li><a href="#easy-taxi">Easy Taxi</a></li>
     <li><a href="#instagram">Instagram</a></li>
     <li><a href="#food-on-the-table">Food on the Table</a></li>
-    <li><a href="#amazon">Amazon **new!**</a></li>
-    <li><a href="#groupon">Groupon **new!**</a></li>
-    <li><a href="#twitter">Twitter **new!**</a></li>
+    <li><a href="#amazon">Amazon</a></li>
+    <li><a href="#groupon">Groupon</a></li>
+    <li><a href="#twitter">Twitter</a></li>
+    <li><a href="#buffer">Buffer **new!**</a></li>
   </ol>
 </details>
 
@@ -84,7 +86,7 @@ Online shoe and clothing retailer store
 
 ![zappos_mvp](https://user-images.githubusercontent.com/42478443/232846204-d4551792-ca75-45f5-94fe-a1f765bbeb2c.png)
 
-[🔼 Back to top](#awesome-mvps)
+[🔼 Back to top](#content)
 
 <!-- Dropbox -->
 <h2 align="left">Dropbox</h2>
@@ -103,7 +105,7 @@ The founder, Drew Houston, used a very casual and friendly wording on his video,
 
 ![dropbox_mvp](https://user-images.githubusercontent.com/42478443/234365910-f37a14ca-e129-4cbc-83b7-fc3ca0316a94.png)
 
-[🔼 Back to top](#awesome-mvps)
+[🔼 Back to top](#content)
 
 <!-- Facebook -->
 <h2 align="left">Facebook</h2>
@@ -121,7 +123,7 @@ Later on, Facebook decided to focus on being a social media for any person, and 
 
 ![facebook_mvp](https://user-images.githubusercontent.com/42478443/234598165-ac972af8-8bd6-4eb7-a9ba-d9d50145f521.png)
 
-[🔼 Back to top](#awesome-mvps)
+[🔼 Back to top](#content)
 
 <!-- Tinder -->
 <h2 align="left">Tinder</h2>
@@ -137,7 +139,7 @@ Online dating app.
 
 ![tinder_mvp](https://user-images.githubusercontent.com/42478443/234894559-d9ca572b-d4c9-4067-9c89-d2e77c55e545.png)
 
-[🔼 Back to top](#awesome-mvps)
+[🔼 Back to top](#content)
 
 <!-- Easy Taxi -->
 <h2 align="left">Easy Taxi</h2>
@@ -153,7 +155,7 @@ Mobile App for taxi hailing.
 
 ![easy-taxi_mvp](https://user-images.githubusercontent.com/42478443/233426377-72b3c2e7-f625-4706-a838-601eac4f1d83.png)
 
-[🔼 Back to top](#awesome-mvps)
+[🔼 Back to top](#content)
 
 <!-- Instagram -->
 <h2 align="left">Instagram</h2>
@@ -169,7 +171,7 @@ A social network focused on sharing photos and videos.
 
 ![instagram_mvp](https://user-images.githubusercontent.com/42478443/234920799-87fcaa62-66f4-4989-956c-6dcfeaf91519.png)
 
-[🔼 Back to top](#awesome-mvps)
+[🔼 Back to top](#content)
 
 <!-- Food on the Table -->
 <h2 align="left">Food on the Table</h2>
@@ -185,7 +187,7 @@ An app that helps you plan meals based on your own preferences and on the ingred
 
 ![food-on-the-table_mvp](https://user-images.githubusercontent.com/42478443/234931770-66526bc5-b28d-4463-a086-54259a891b96.png)
 
-[🔼 Back to top](#awesome-mvps)
+[🔼 Back to top](#content)
 
 <!-- Amazon -->
 <h2 align="left">Amazon</h2>
@@ -204,7 +206,7 @@ Bezoz would add more types of products over the time, slowly validating his main
 
 ![amazon_mvp](https://user-images.githubusercontent.com/42478443/235662931-99e8336f-4b37-4a70-be7b-d0706a49fdd3.png)
 
-[🔼 Back to top](#awesome-mvps)
+[🔼 Back to top](#content)
 
 <!-- Groupon -->
 <h2 align="left">Groupon</h2>
@@ -222,7 +224,7 @@ An e-commerce marketplace where you can hire and visit local services.
 
 ![groupon_mvp](https://user-images.githubusercontent.com/42478443/235681743-17d8e188-747b-4692-a92c-38d484186c56.png)
 
-[🔼 Back to top](#awesome-mvps)
+[🔼 Back to top](#content)
 
 <!-- Twitter -->
 <h2 align="left">Twitter</h2>
@@ -238,4 +240,19 @@ Online social networking service.
 
 ![twitter_mvp](https://user-images.githubusercontent.com/42478443/235714298-65d2c34c-6316-4ecd-bce9-a3886da7671d.png)
 
-[🔼 Back to top](#awesome-mvps)
+[🔼 Back to top](#content)
+
+<!-- Buffer -->
+<h2 align="left">Buffer</h2>
+A software that allows you to manage your social media accounts, like being able to schedule your posts and check their statistics (engagement with the community) 
+
+#### Type: Landing Page
+**Date**: 2010.
+
+**Hypothesis**: Some people would like to manage their multiple social medias through a single application
+
+**Description**: A 2 page website where the first page showed what Buffer was capable of doing, while the second one allowed the person to give their email for future informations about the product. However, the app did not even exist, and the only purpose of making a Landing Page was to see if people had interest in the app, allowing Joel Gascoigne, the founder of Buffer, to gather evidence about his idea being good (or not). The Landing Page was small, simple, and explained extremely well what the product was capable of doing, which means it did not require people to invest much time on the website.
+
+![buffer_mvp](https://user-images.githubusercontent.com/42478443/236283241-35a975a0-766e-434d-b20a-3b705d5b8064.png)
+
+[🔼 Back to top](#content)
