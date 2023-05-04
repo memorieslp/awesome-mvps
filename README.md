@@ -7,9 +7,9 @@ Welcome to awesome-mvps, a repository with a Catalog of MVPs!
 <!-- What are MVPs? -->
 <h2 align="left">What are MVPs?</h2>
 
-MVPs are Minimum Viable Products, a simplified version of a finished product. The use of this term can vary depending on what people consider as "minimum". My favorite definition is the one from Ries, the author of the Lean Startup book that is probably the most influential book about MVPs: 
+MVPs are Minimum Viable Products, a simplified version of a finished product. The use of this term can vary depending on what people consider as "minimum". My favorite definition is the one from Eric Ries, the author of the Lean Startup book that is probably the most influential book about MVPs: 
 
-*"A Minimum Viable Product is the version of a product that demands less effort to make, while also being able to provide the maximum amount of validating learning"*, Ries from Lean Startup.
+*"A Minimum Viable Product is the version of a product that demands less effort to make, while also being able to provide the maximum amount of validating learning"*, Eric Ries from Lean Startup.
 
 Steve Blank, another important figure that has discussed about MVPs and their importance, that is also the author of the famous book called "The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses", gives a more technical point of view for what a MVP is:
 
