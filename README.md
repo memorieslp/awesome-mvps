@@ -19,7 +19,7 @@ Steve Blank, another important figure that has discussed about MVPs and their im
 <h2 align="left">MVPs are part of a Learning Process</h2>
 
 The main advantage of MVPs is that they are part of a process, called **Learning Process** by Ries, which can be simplified as: 
-<li>Coming up with an idea (**hypothesis**) and a plan</li>
+<li>Coming up with an idea (hypothesis) and a plan</li>
 <li>Creating a MVP to test your hypothesis on the market</li>
 <li>Gathering feedback from the users and learning from it</li>
 <li>Coming up with a new hyphotesis, changing your current hypothesis to a new one, or adapting your current hypothesis</li>
