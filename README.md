@@ -48,7 +48,7 @@ The Catalog of MVPs presented on this repository has the goal of showing real li
 | **MVP**  | **Description** | **Examples**
 | ------------- | ------------- | ------------- |
 | **Landing Page** | A page on the internet with the goal of showing what is your product. It is often used as a complement to the the real product that is being developed, to help people understand what the product is about. In some cases, the Landing Page is created before the product even exists to see if people have interest in it| <a href="#buffer">Buffer</a> |
-| **Crowdfunding** | The product is shown on a website where the target market can help funding the project, so this strategy is usually used when there is not enough money for the product to happen. In exchange, people that helped funding gain unique benefits, like being able to get in touch with the developers, give proper feedback and express their ideas, get a beta version of the product, or even getting the product for free depending on how much the person helped funding it. | None |
+| **Crowdfunding** | The product is shown on a website where the target market can help funding the project, so this strategy is usually used when there is not enough money for the product to happen. In exchange, people that helped funding gain unique benefits, like being able to get in touch with the developers, give proper feedback and express their ideas, get a beta version of the product, or even getting the product for free depending on how much the person helped funding it. | <a href="#oculus-rift">Oculus Rift</a> |
 | **Video**  | A video that shows your product, usually presenting its features while also selling why your idea is good deserves to be on the market | <a href="#dropbox">Dropbox</a> |
 | **Concierge**  | The entire product is done manually by people, without a functional product | <a href="#food-on-the-table">Food on the Table</a>  |
 | **The Wizard of Oz** | While the user can interact with the product, the backend is actually done by people without the user even noticing it | <a href="#zappos">Zappos</a>, <a href="#easy-taxi">Easy Taxi</a>, <a href="#amazon">Amazon</a> |
@@ -71,6 +71,7 @@ The Catalog of MVPs presented on this repository has the goal of showing real li
     <li><a href="#groupon">Groupon</a></li>
     <li><a href="#twitter">Twitter</a></li>
     <li><a href="#buffer">Buffer **new!**</a></li>
+    <li><a href="#oculus-rift">Oculus Rift **new!**</a></li>
   </ol>
 </details>
 
@@ -255,5 +256,20 @@ A software that allows you to manage your social media accounts, like being able
 **Description**: A 2 page website where the first page showed what Buffer was capable of doing, while the second one allowed the person to give their email for future informations about the product. However, the app did not even exist, and the only purpose of making a Landing Page was to see if people had interest in the app, allowing Joel Gascoigne, the founder of Buffer, to gather evidence about his idea being good (or not). The Landing Page was small, simple, and explained extremely well what the product was capable of doing, which means it did not require people to invest much time on the website.
 
 ![buffer_mvp](https://user-images.githubusercontent.com/42478443/236283241-35a975a0-766e-434d-b20a-3b705d5b8064.png)
+
+[🔼 Back to top](#content)
+
+<!-- Oculus Rift -->
+<h2 align="left">Oculus Rift</h2>
+A virtual reality gaming device.
+
+#### Type: Crowdfunding
+**Date**: 2012.
+
+**Hypothesis**: Gamers have interest in buying a Virtual Reality headset. 
+
+**Description**: An annoucement for crowdfunging a Virtual Reality (VR) headset at the Kickstarter website. The first prototype was made in 2011 by Palmer Luckey, then it was presented at one of the biggest gaming events at the time called E3, in 2012. The product became famous and received positive feedback at the event, so Palmer decided to crowdfund it, given that he had no resources and money to accomplish his goals. VRs were a new technology at the time and were not accessible by most people, so a lot of gamers had interest in seein this product have success.
+
+![oculus-rift_mvp](https://user-images.githubusercontent.com/42478443/236466646-7ca84f38-1627-4bca-9c55-4eab0ee273b6.png)
 
 [🔼 Back to top](#content)
