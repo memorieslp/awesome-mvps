@@ -7,8 +7,6 @@ A virtual reality gaming device.
 
 **Hypothesis**: Gamers have interest in buying a Virtual Reality headset. 
 
-**Description**: An online retailer store that sells books, however part of the backend was done manually. Jeff Bezos believed that online retailer stores was the future of the industry and the internet, so he started selling books online, because there were many books, and they were easy to buy and ship, they did not require big investiments and they were an extremely popular product. The first Amazon website is considered to be a Single Feature MVP, since all it did was selling books online, although Jeff Bezos would also physically buy the books and mail them to the costumers.
-
-Bezoz would add more types of products over the time, slowly validating his main hypothesis.
+**Description**: An annoucement for crowdfunging a Virtual Reality (VR) headset at the Kickstarter website. The first prototype was made in 2011 by Palmer Luckey, then it was presented at one of the biggest gaming events at the time called E3, in 2012. The product became famous and received positive feedback at the event, so Palmer decided to crowdfund it, given that he had no resources and money to accomplish his goals. VRs were a new technology at the time and were not accessible by most people, so a lot of gamers had interest in seein this product have success.
 
 ![oculus-rift_mvp](https://user-images.githubusercontent.com/42478443/236466646-7ca84f38-1627-4bca-9c55-4eab0ee273b6.png)
