@@ -11,3 +11,6 @@ An online marketplace for homestay experiences, where you stay in a house or apa
 
 Bezos would add more types of products over the time, slowly validating his main hypothesis.
 
+![airbnb_mvp](https://github.com/memorieslp/awesome-mvps/assets/42478443/2d9f9340-9702-4a58-886f-417138ab96f3)
+
+
