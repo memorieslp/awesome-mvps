@@ -50,7 +50,7 @@ The Catalog of MVPs presented on this repository has the goal of showing real li
 | **Landing Page** | A page on the internet with the goal of showing what is your product. It is often used as a complement to the the real product that is being developed, to help people understand what the product is about. In some cases, the Landing Page is created before the product even exists to see if people have interest in it| <a href="#buffer">Buffer</a> |
 | **Crowdfunding** | The product is shown on a website where the target market can help funding the project, so this strategy is usually used when there is not enough money for the product to happen. In exchange, people that helped funding gain unique benefits, like being able to get in touch with the developers, give proper feedback and express their ideas, get a beta version of the product, or even getting the product for free depending on how much the person helped funding it. | <a href="#oculus-rift">Oculus Rift</a> |
 | **Video**  | A video that shows your product, usually presenting its features while also selling why your idea is good deserves to be on the market | <a href="#dropbox">Dropbox</a> |
-| **Concierge**  | The entire product is done manually by people, without a functional product | <a href="#food-on-the-table">Food on the Table</a>  |
+| **Concierge**  | The entire product is done manually by people, without a functional product | <a href="#food-on-the-table">Food on the Table</a>, <a href="#airbnb">Airbnb</a> |
 | **The Wizard of Oz** | While the user can interact with the product, the backend is actually done by people without the user even noticing it | <a href="#zappos">Zappos</a>, <a href="#easy-taxi">Easy Taxi</a>, <a href="#amazon">Amazon</a> |
 | **Piecemeal** | It works like The Wizard of Oz, however the backend uses tools to facilitate the manual process | <a href="#groupon">Groupon</a> |
 | **Single Feature** | The product only has one single feature, usually the one that is the most important and represents well the identity of the product | <a href="#facebook">Facebook</a>, <a href="#tinder">Tinder</a>, <a href="#instagram">Instagram</a>, <a href="#twitter">Twitter</a>, <a href="#spotify">Spotify</a> |
@@ -73,6 +73,7 @@ The Catalog of MVPs presented on this repository has the goal of showing real li
     <li><a href="#buffer">Buffer **new!**</a></li>
     <li><a href="#oculus-rift">Oculus Rift **new!**</a></li>
     <li><a href="#spotify">Spotify **new!**</a></li>
+    <li><a href="#airbnb">Airbnb **new!**</a></li>
   </ol>
 </details>
 
@@ -289,3 +290,21 @@ A music streaming service.
 ![spotify_mvp](https://github.com/memorieslp/awesome-mvps/assets/42478443/b588041f-eb00-4735-a65f-329b723e7879)
 
 [🔼 Back to top](#content)
+
+<!-- Airbnb -->
+<h2 align="left">Airbnb</h2>
+An online marketplace for homestay experiences, where you stay in a house or apartment from another person, and not from a hotel company.
+
+#### Type: Concierge
+**Date**: 2007.
+
+**Hypothesis**: People would like to provide their residences as a place for other people to stay.
+
+**Description**: Brian Chesky and Joe Gebbia, the founders of Aribnb, arranged a room from their apartment to look like a proper space for people to sleep at, similar to a hotel. They realized the city they lived at, San Francisco, had lots of conferences, but hotels were often full and were expensive. They decided to fix that problem by making a website where people could sleep on other people's residences. However, that idea was expensive. The founders used a conference to test this idea, using their own apartment to simulate the experiment. 
+
+After realizing that people had interest in it, they created a very simple website, but it was focused on people that wanted to attend tech conferences. After some testing and success, the founders started to test if people were willing to have strangers spend time at their residences, and they did that with the same focus on tech conferences. Only later, after a lot of tests and changes to their website, that the founders started to expand their costumers and remove this link between their website and tech conferences.
+
+![airbnb_mvp](https://github.com/memorieslp/awesome-mvps/assets/42478443/2d9f9340-9702-4a58-886f-417138ab96f3)
+
+[🔼 Back to top](#content)
+
