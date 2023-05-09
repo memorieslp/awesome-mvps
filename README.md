@@ -53,7 +53,7 @@ The Catalog of MVPs presented on this repository has the goal of showing real li
 | **Concierge**  | The entire product is done manually by people, without a functional product | <a href="#food-on-the-table">Food on the Table</a>  |
 | **The Wizard of Oz** | While the user can interact with the product, the backend is actually done by people without the user even noticing it | <a href="#zappos">Zappos</a>, <a href="#easy-taxi">Easy Taxi</a>, <a href="#amazon">Amazon</a> |
 | **Piecemeal** | It works like The Wizard of Oz, however the backend uses tools to facilitate the manual process | <a href="#groupon">Groupon</a> |
-| **Single Feature** | The product only has one single feature, usually the one that is the most important and represents well the identity of the product | <a href="#facebook">Facebook</a>, <a href="#tinder">Tinder</a>, <a href="#instagram">Instagram</a>, <a href="#twitter">Twitter</a> |
+| **Single Feature** | The product only has one single feature, usually the one that is the most important and represents well the identity of the product | <a href="#facebook">Facebook</a>, <a href="#tinder">Tinder</a>, <a href="#instagram">Instagram</a>, <a href="#twitter">Twitter</a>, <a href="#spotify">Spotify</a> |
 
 <!-- Content -->
 <h2 align="left">Content</h2>
@@ -72,6 +72,7 @@ The Catalog of MVPs presented on this repository has the goal of showing real li
     <li><a href="#twitter">Twitter</a></li>
     <li><a href="#buffer">Buffer **new!**</a></li>
     <li><a href="#oculus-rift">Oculus Rift **new!**</a></li>
+    <li><a href="#spotify">Spotify **new!**</a></li>
   </ol>
 </details>
 
@@ -271,5 +272,20 @@ A virtual reality gaming device.
 **Description**: An annoucement for crowdfunging a Virtual Reality (VR) headset at the Kickstarter website. The first prototype was made in 2011 by Palmer Luckey, then it was presented at one of the biggest gaming events at the time called E3, in 2012. The product became famous and received positive feedback at the event, so Palmer decided to crowdfund it, given that he had no resources and money to accomplish his goals. VRs were a new technology at the time and were not accessible by most people, so a lot of gamers had interest in seein this product have success.
 
 ![oculus-rift_mvp](https://user-images.githubusercontent.com/42478443/236466646-7ca84f38-1627-4bca-9c55-4eab0ee273b6.png)
+
+[🔼 Back to top](#content)
+
+<!-- Spotify -->
+<h2 align="left">Spotify</h2>
+A music streaming service.
+
+#### Type: Single Feature
+**Date**: 2006.
+
+**Hypothesis**: People have interest in listening to their music on a single app that does not require you to download the songs and allows you to avoid the risk of dealing with viruses and wrong downloads.
+
+**Description**: A desktop app that had one feature: music streaming. Daniel Ek and Martin Lorentzon, the founders of Spotify, already knew music streaming was a validated hypothesis. However, they wanted to do it with a higher quality when compared to the market. They wanted their application to be faster, so they focused a lot on decreasing the latency of their system, to make it feel as smooth as possible. As time moved on, they added more features to the MVP to refine it to the quality they visioned.
+
+![spotify_mvp](https://github.com/memorieslp/awesome-mvps/assets/42478443/b588041f-eb00-4735-a65f-329b723e7879)
 
 [🔼 Back to top](#content)
