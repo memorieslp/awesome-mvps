@@ -170,7 +170,7 @@ Mobile App for taxi hailing.
 
 A social network focused on sharing photos and videos.
 
-#### Type: Simple Feature
+#### Type: Simple App
 **Date**: 2010.
 
 **Hypothesis**: People are interested in sharing their meetings at public places.
