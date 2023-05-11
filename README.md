@@ -53,7 +53,7 @@ The Catalog of MVPs presented on this repository has the goal of showing real li
 | **Concierge**  | The entire product is done manually by people, without a functional product | <a href="#food-on-the-table">Food on the Table</a>, <a href="#airbnb">Airbnb</a> |
 | **The Wizard of Oz** | While the user can interact with the product, the backend is actually done by people without the user even noticing it | <a href="#zappos">Zappos</a>, <a href="#easy-taxi">Easy Taxi</a>, <a href="#amazon">Amazon</a> |
 | **Piecemeal** | It works like The Wizard of Oz, however the backend uses tools to facilitate the manual process | <a href="#groupon">Groupon</a> |
-| **Single Feature** | The product only has one single feature, usually the one that is the most important and represents well the identity of the product | <a href="#facebook">Facebook</a>, <a href="#tinder">Tinder</a>, <a href="#instagram">Instagram</a>, <a href="#twitter">Twitter</a>, <a href="#spotify">Spotify</a> |
+| **Simple App** | The product has the least amount of features necessary to represent well the identity of the product | <a href="#facebook">Facebook</a>, <a href="#tinder">Tinder</a>, <a href="#instagram">Instagram</a>, <a href="#twitter">Twitter</a>, <a href="#spotify">Spotify</a> |
 
 <!-- Content -->
 <h2 align="left">Content</h2>
@@ -105,7 +105,9 @@ Link to the original mvp video, uploaded by theragax: https://youtu.be/7QmCUDHpN
 
 **Description**: A video that shows how the share system of their file hosting service works, created to see if people would have interest on the idea.
 
-The founder, Drew Houston, used a very casual and friendly wording on his video, to make it appeal to more people, using some hidden jokes through the video. This method made Drew look likable and relatable. The mvp showed how to use the feature, almost like a tutorial, which was also an oportunity to show why a file hosting service could be useful to people. It works fast and simple on the video, making it sell the idea of a well made product. Houston was able to validate the hypothesis with the number of new users that registered to their beta version, that went from 5,000 to 75,000 in one day.
+The founder, Drew Houston, used a very casual and friendly wording on his video, to make it appeal to more people, using some hidden jokes through the video. This method made Drew look likable and relatable. The MVP showed how to use the feature, almost like a tutorial, which was also an oportunity to show why a file hosting service could be useful to people. It works fast and simple on the video, making it sell the idea of a well made product. Houston was able to validate the hypothesis with the number of new users that registered to their beta version, that went from 5,000 to 75,000 in one day.
+
+**Features**: The prototype had the ability to place your folders on the Dropbox folder to upload the content to the cloud storage system. You could see all the files that were in sync with Dropbox by checking their website. Although functional, the prototype was not ready for the public, so presenting the early stage development version of the product through a video could give the idea of a fast and optimized product, the exact characteristics that Drew Houston believed would make his product stand out compared to the competition.
 
 ![dropbox_mvp](https://user-images.githubusercontent.com/42478443/234365910-f37a14ca-e129-4cbc-83b7-fc3ca0316a94.png)
 
@@ -116,7 +118,7 @@ The founder, Drew Houston, used a very casual and friendly wording on his video,
 
 Online social networking service.
 
-#### Type: Single Feature
+#### Type: Simple App
 **Date**: 2004.
 
 **Hypothesis**: Students would like to share their university experiences though a social website that connects people.
@@ -124,6 +126,8 @@ Online social networking service.
 **Description**: A social media website that allows students, from Harvard, to connect with people they've met at the university, sharing their experiences around the campus and creating discussions related to the institution. At first, Mark Zuckerberg, the founder of Facebook, created a website, in 2003, called Face Share, where people could vote which students were the most beautiful, and was mostly used as a joke. Harvard took the website down. However, it still worked as an inspiration for Zuckerberg to keep students engaged with each other through the internet, which lead to the creation of The Facebook, Mark's first real MVP.
 
 Later on, Facebook decided to focus on being a social media for any person, and not just Harvard students, increasing the amount of features over time and adapting them to a wider public.
+
+**Features**: The Facebook allowed students to make an account with a profile picture and descriptions about themselves. Users could add and remove friends and engage with groups by having discussions about their time inside the university. It created a sense of community for the students and it felt like a social exntension from their time at the campus.
 
 ![facebook_mvp](https://user-images.githubusercontent.com/42478443/234598165-ac972af8-8bd6-4eb7-a9ba-d9d50145f521.png)
 
