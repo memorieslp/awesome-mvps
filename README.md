@@ -138,7 +138,7 @@ Later on, Facebook decided to focus on being a social media for any person, and 
 
 Online dating app.
 
-#### Type: Single Feature
+#### Type: Simple App
 **Date**: 2012.
 
 **Hypothesis**: People would like to easily arrange a date and set up a meeting.
@@ -170,7 +170,7 @@ Mobile App for taxi hailing.
 
 A social network focused on sharing photos and videos.
 
-#### Type: Single Feature
+#### Type: Simple Feature
 **Date**: 2010.
 
 **Hypothesis**: People are interested in sharing their meetings at public places.
@@ -239,7 +239,7 @@ An e-commerce marketplace where you can hire and visit local services.
 
 Online social networking service.
 
-#### Type: Single Feature
+#### Type: Simple App
 **Date**: 2006.
 
 **Hypothesis**: People want to easily get in touch with friends through fast messages, that are shared to all the user's followers.
@@ -284,7 +284,7 @@ A virtual reality gaming device.
 <h2 align="left">Spotify</h2>
 A music streaming service.
 
-#### Type: Single Feature
+#### Type: Simple App
 **Date**: 2006.
 
 **Hypothesis**: People have interest in listening to their music on a single app that does not require you to download the songs and allows you to avoid the risk of dealing with viruses and wrong downloads.
