@@ -70,9 +70,9 @@ The Catalog of MVPs presented on this repository has the goal of showing real li
     <li><a href="#amazon">Amazon</a></li>
     <li><a href="#groupon">Groupon</a></li>
     <li><a href="#twitter">Twitter</a></li>
-    <li><a href="#buffer">Buffer **new!**</a></li>
-    <li><a href="#oculus-rift">Oculus Rift **new!**</a></li>
-    <li><a href="#spotify">Spotify **new!**</a></li>
+    <li><a href="#buffer">Buffer</a></li>
+    <li><a href="#oculus-rift">Oculus Rift</a></li>
+    <li><a href="#spotify">Spotify</a></li>
     <li><a href="#airbnb">Airbnb **new!**</a></li>
   </ol>
 </details>
