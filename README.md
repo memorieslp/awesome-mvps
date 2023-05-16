@@ -88,6 +88,8 @@ Online shoe and clothing retailer store
 
 **Description**: A website that resells shoes from multiple shoe stores. However, most of the backend was done manually. Nick Swinmurn, the founder, would visit shoe stores beforehand, taking pictures and checking the prices of the shoes, so he could add those details to his website. Once a product was ordered, Swinmurn would go back to the stores to buy the shoes, mailing them to the address of the costumer.
 
+**Features**: The website allowed costumers to see pictures of shoes, their prices and some other minor informations, like their size and from what brand they are from, so they could choose what product to buy. There was also a delivery system where you give your address and Zappos would send the shoes to you. The scale of all these features was small, but big enough to give a hard work for Nick Swinmurn to make it all look automated and smooth. Because of his manual work, Nick added only the essential features that were enough to test his hypothesis, avoiding any extra work.
+
 ![zappos_mvp](https://user-images.githubusercontent.com/42478443/232846204-d4551792-ca75-45f5-94fe-a1f765bbeb2c.png)
 
 [🔼 Back to top](#content)
@@ -107,7 +109,7 @@ Link to the original mvp video, uploaded by theragax: https://youtu.be/7QmCUDHpN
 
 The founder, Drew Houston, used a very casual and friendly wording on his video, to make it appeal to more people, using some hidden jokes through the video. This method made Drew look likable and relatable. The MVP showed how to use the feature, almost like a tutorial, which was also an oportunity to show why a file hosting service could be useful to people. It works fast and simple on the video, making it sell the idea of a well made product. Houston was able to validate the hypothesis with the number of new users that registered to their beta version, that went from 5,000 to 75,000 in one day.
 
-**Features**: The prototype had the ability to place your folders on the Dropbox folder to upload the content to the cloud storage system. You could see all the files that were in sync with Dropbox by checking their website. Although functional, the prototype was not ready for the public, so presenting the early stage development version of the product through a video could give the idea of a fast and optimized product, the exact characteristics that Drew Houston believed would make his product stand out compared to the competition.
+**Features**: The prototype had the ability to place your folders on the Dropbox folder to upload the content to the cloud storage system. You could see all the files that were in sync with Dropbox by checking their website. Although functional, the prototype was not ready for the public, so presenting the early stage development version of the product through a video could suggest the idea of a fast and optimized product, the exact characteristics that Drew Houston believed would make his product stand out compared to the competition.
 
 ![dropbox_mvp](https://user-images.githubusercontent.com/42478443/234365910-f37a14ca-e129-4cbc-83b7-fc3ca0316a94.png)
 
@@ -127,7 +129,7 @@ Online social networking service.
 
 Later on, Facebook decided to focus on being a social media for any person, and not just Harvard students, increasing the amount of features over time and adapting them to a wider public.
 
-**Features**: The Facebook allowed students to make an account with a profile picture and descriptions about themselves. Users could add and remove friends and engage with groups by having discussions about their time inside the university. It created a sense of community for the students and it felt like a social exntension from their time at the campus.
+**Features**: The Facebook allowed students to make an account with a profile picture and descriptions about themselves. Users could add and remove friends and engage with groups by having discussions about their time inside the university. It created a sense of community for the students and it felt like a social extension from their time at the campus.
 
 ![facebook_mvp](https://user-images.githubusercontent.com/42478443/234598165-ac972af8-8bd6-4eb7-a9ba-d9d50145f521.png)
 
@@ -145,6 +147,8 @@ Online dating app.
 
 **Description**: An app that allows people to make profiles focused on dating. If two profiles like each other, they get a match, allowing them to talk to each other and arrange a real life date if they want to. Tinder was first called MatchBox, and its features barely changed over time, because it was a very focused and simple idea, that early on, proved to work with its success among university students. At first, you would give a like or dislike on another profile. However, only one year later after the first MVP, the developers changed the like and dislike buttons to a swipe feature, where you swipe right to like and left to dislike, giving it a unique feel that was not common at the time. Not only the swap feature made the process of showing interest to a person faster, but it also gave an identity to the app, making it more iconic.
 
+**Features**: Users could make a profile giving a bit of information about themselves and adding photograph of themselves. There was also the like and dislike function, that allowed people give a thumbs up or thumbs down vote to another profile, and if both profiles liked each other, they would get a match. A match would be a notification to both accounts showing that they had interest in each other, giving them the possibility of having a chat with each other, so they could know each other better and maybe schedule a date if they wanted to (the app does not offer a schedule system for dates). It is important to note that the way you search for another user and how the match feature works are still fundamental to the apps's idendity today. The range of the app was small, so there was no proximity feature showing how close the other profiles are to you, and this feature would come in handy once the app started to spread all over the country and eventually, the world.
+
 ![tinder_mvp](https://user-images.githubusercontent.com/42478443/234894559-d9ca572b-d4c9-4067-9c89-d2e77c55e545.png)
 
 [🔼 Back to top](#content)
@@ -160,6 +164,8 @@ Mobile App for taxi hailing.
 **Hypothesis**: People would like a service that arranges a taxi for them.
 
 **Description**: A web page that people would ask for a cab, with the backend done manually. A costumer would order a taxi through the Easy Taxi website, giving their address and name. This process would generate an email to the founders, containing the information given by the costumers, which they would use to call a cab company. This method did not require the creation of a robust system that tracks the location of the user, or that automatically finds a taxi driver based on the address of the costumer, making it easier and cheaper to validate the hypothesis.
+
+**Features**: The only feature of the website was the possibility of calling a taxi to your location, so you had to give some brief informations, like your name, email, location, destination and the color of your outfit. After that, all you had to do is wait for the cab to arrive. The website provided a convenience to the costumers, but it still required some effort, since you had to repeat your personal data every time you wanted another cab, and the UI was more designed for a desktop interface. The convenience was not at the quality the founders of Easy Taxi wanted to provide to their costumers, but it was enough to see if their hypothesis was right.
 
 ![easy-taxi_mvp](https://user-images.githubusercontent.com/42478443/233426377-72b3c2e7-f625-4706-a838-601eac4f1d83.png)
 
