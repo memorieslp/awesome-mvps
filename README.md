@@ -84,11 +84,11 @@ Online shoe and clothing retailer store
 #### Type: The Wizard of Oz
 **Date**: 1999.
 
-**Hypothesis**: An online retailer store for shoes would make it much easier for people to buy the shoes they want to, without the need to go to multiple stores to find shoes.
+**Hypothesis**: An online retail store for shoes would significantly simplify the process of purchasing desired footwear, eliminating the need for individuals to visit multiple physical stores.
 
-**Description**: A website that resells shoes from multiple shoe stores. However, most of the backend was done manually. Nick Swinmurn, the founder, would visit shoe stores beforehand, taking pictures and checking the prices of the shoes, so he could add those details to his website. Once a product was ordered, Swinmurn would go back to the stores to buy the shoes, mailing them to the address of the costumer.
+**Description**: A website that specializes in reselling shoes sourced from various shoe stores. However, a significant portion of the backend operations is carried out manually. The founder, Nick Swinmurn, personally visits shoe stores in advance, capturing pictures and verifying prices of the shoes. These details are then added to the website's listings. When a customer places an order, Swinmurn revisits the respective stores, purchases the shoes, and subsequently ships them to the customer's address.
 
-**Features**: The website allowed customers to see pictures of shoes, their prices and some other minor information, like their size and from what brand they are from, so they could choose what product to buy. There was also a delivery system where you give your address and Zappos would send the shoes to you. The scale of all these features was small, but big enough to give a hard work for Nick Swinmurn to make it all look automated and smooth. Because of his manual work, Nick added only the essential features that were enough to test his hypothesis, avoiding any extra work.
+**Features**: The website provided customers with the ability to view shoe pictures, prices, and additional details such as size and brand, allowing them to make informed purchasing decisions. Furthermore, there was a streamlined delivery system in place where customers could provide their address, and Zappos would handle shipping the shoes directly to them. While the scale of these features was relatively small, it presented a significant challenge for Nick Swinmurn to ensure that the process appeared automated and seamless. Due to his manual efforts, Nick focused on incorporating only essential features that were necessary to test his hypothesis, avoiding any unnecessary work.
 
 ![zappos_mvp](https://user-images.githubusercontent.com/42478443/232846204-d4551792-ca75-45f5-94fe-a1f765bbeb2c.png)
 
@@ -125,9 +125,9 @@ Online social networking service.
 
 **Hypothesis**: Students would like to share their university experiences through a social website that connects people.
 
-**Description**: A social media website that allows students, from Harvard, to connect with people they've met at the university, sharing their experiences around the campus and creating discussions related to the institution. At first, Mark Zuckerberg, the founder of Facebook, created a website, in 2003, called Face Share, where people could vote which students were the most beautiful, and was mostly used as a joke. Harvard took the website down. However, it still worked as an inspiration for Zuckerberg to keep students engaged with each other through the internet, which led to the creation of The Facebook, Mark's first real MVP.
+**Description**: The initial concept was a social media website specifically designed for Harvard students to connect with others they had encountered on campus, fostering discussions and sharing experiences related to the university. In 2003, Mark Zuckerberg, the founder of Facebook, created a website called Face Share, which allowed people to vote on the most beautiful students at Harvard. However, it was primarily intended as a joke and was eventually taken down by the university. Nevertheless, this experience served as inspiration for Zuckerberg to explore the idea of utilizing the internet to facilitate student engagement, leading to the development of his first true minimum viable product (MVP) called The Facebook.
 
-Later on, Facebook decided to focus on being a social media for any person, and not just Harvard students, increasing the amount of features over time and adapting them to a wider public.
+As time progressed, Facebook expanded its focus to become a social media platform for individuals beyond just Harvard students. It gradually introduced additional features and adapted them to cater to a broader audience.
 
 **Features**: Facebook allowed students to create accounts with profile pictures and descriptions about themselves. Users could add and remove friends, as well as engage with groups to have discussions about their university experiences. It created a sense of community for the students and felt like a social extension of their time on campus.
 
