@@ -201,6 +201,8 @@ An app that helps you plan meals based on your own preferences and on the ingred
 
 **Description**: The MVP was a manual process, with no programing required or any use of external tools. The founders would talk to people, find out their preferences, go to the supermakets and grocery stores to check the prices of the ingredients, and deliver them to their clients. It started with one client, and slowly scalated to more and more people. The founders were able to learn the nuances of this project, by talking to people and learning how the process works in practice, while also not spending any time or money on programing a very ambitious and complex app that they did not know if it had a future and a place on the market.
 
+**Features**: The process allowed costumers to tell what their preferences were, so the founders could come up with recipes and find out which locations had the best prices for the ingredients. These ingredients would be delivered to the costumer's residence with the instructions to make the meal, and although the founders had to physically visit the grocery stores and the supermaket, the costumers didn't have to do anything but wait for the delivery, making the idea very appealing to those interested in cooking. There was no proper feature in this MVP that had to be implemented in an application, it was all an abstraction of the real product.
+
 ![food-on-the-table_mvp](https://user-images.githubusercontent.com/42478443/234931770-66526bc5-b28d-4463-a086-54259a891b96.png)
 
 [🔼 Back to top](#content)
@@ -216,9 +218,11 @@ Most known for being an online retailer of many types of products, although Amaz
 
 Jeff Bezos, the founder, started testing this hyphothesis by scaling it down to books only.
 
-**Description**: An online retailer store that sells books, however part of the backend was done manually. Jeff Bezos believed that online retailer stores was the future of the industry and the internet, so he started selling books online, because there were many books, and they were easy to buy and ship, they did not require big investiments and they were an extremely popular product. The first Amazon website is considered to be a Single Feature MVP, since all it did was selling books online, although Jeff Bezos would also physically buy the books and mail them to the costumers.
+**Description**: An online retailer store that sells books, however part of the backend was done manually. Jeff Bezos believed that online retailer stores was the future of the industry and the internet, so he started selling books online, because there were many books, and they were easy to buy and ship, they did not require big investiments and they were an extremely popular product. The first Amazon website is an extremely simple website, since all it did was selling books online, although Jeff Bezos would also physically buy the books and mail them to the costumers.
 
 Bezos would add more types of products over the time, slowly validating his main hypothesis.
+
+**Features**: The website allowed people to choose which books to buy, so they could order them to be delivered at their home. The search system for products was not complex, because it had to work for books only, so this feature would gradually become more robust as more products were added. Originally, the front page talked about how Amazon was the perfect place to buy books, giving simple explanations to what the website was and what it could offer, a needed introduction given that, at the time, online retailer stores were basically non existant, so costumers had to first learn what Amazon actually was. Over time, the entire layout of the website would change to accommodate the new products and make it clear that Amazon was way more than just about selling books.
 
 ![amazon_mvp](https://user-images.githubusercontent.com/42478443/235662931-99e8336f-4b37-4a70-be7b-d0706a49fdd3.png)
 
