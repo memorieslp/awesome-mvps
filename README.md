@@ -183,6 +183,8 @@ A social network focused on sharing photos and videos.
 
 **Description**: Instagram was first called Burbn, an app about sharing your experiences on public places, with gamifications like being able to score points when posting a meeting. The app was not successful. However, after some analysis and collecting some feedback, the founders realized that people enjoyed the photo-sharing feature a lot. Burbn then performed a Zoom-In pivot, changing its name to Instagram and focusing on one single feature of the original app, which was the possibility of sharing photographies. The founders believed that photo sharing was strong enough to sustain an entire social media, so they wanted to make it easy to share pictures, with straight forward filters that did not require any knowledge on photo editing.
 
+**Features**: Users could make a profile with their personal descriptions and profile photo, allowing them to represent themselves to the friends they can add. The feed was present with the photographies posted by your friends, and those pictures could face simple changes, like a resize, saturation and color tweaks, and even some filters that could drastically change the tone and feel of your picture, making it easy for users to alter photographies without using a robust and complex photo editor, like photoshop, requiring no professional skills and making it accessible to anyone. The ability to like your friend's photo and make comments made users engage with each other by sharing their thoughts.
+
 ![instagram_mvp](https://user-images.githubusercontent.com/42478443/234920799-87fcaa62-66f4-4989-956c-6dcfeaf91519.png)
 
 [🔼 Back to top](#content)
