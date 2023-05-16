@@ -7,13 +7,13 @@ Welcome to awesome-mvps, a repository with a Catalog of MVPs!
 <!-- What are MVPs? -->
 <h2 align="left">What are MVPs?</h2>
 
-MVPs are Minimum Viable Products, a simplified version of a finished product. The use of this term can vary depending on what people consider as "minimum". My favorite definition is the one from Eric Ries, the author of the Lean Startup book that is probably the most influential book about MVPs: 
+MVPs, or Minimum Viable Products, refer to simplified versions of finished products. The interpretation of this term may vary depending on what individuals consider as 'minimum.' My favorite definition comes from Eric Ries, the author of the influential book 'The Lean Startup,':
 
-*"A Minimum Viable Product is the version of a product that demands less effort to make, while also being able to provide the maximum amount of validating learning"*, Eric Ries from Lean Startup.
+*’A Minimum Viable Product is the version of a product that requires less effort to create, while still providing the maximum amount of validating learning’*, - Eric Ries, 'The Lean Startup'.
 
-Steve Blank, another important figure that has discussed about MVPs and their importance, that is also the author of the famous book called "The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses", gives a more technical point of view for what a MVP is:
+Steve Blank, another important figure who has discussed MVPs and their significance, and the author of the renowned book 'The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses,' offers a more technical perspective on what an MVP entails:
 
-*"The MVP is a group of features that is enough to release your product to the market"*, Steve Blank.
+*'The MVP is a group of features that is sufficient for releasing your product to the market.'* - Steve Blank.
 
 <!-- MVPs are part of a Learning Process -->
 <h2 align="left">MVPs are part of a Learning Process</h2>
@@ -24,36 +24,36 @@ The main advantage of MVPs is that they are part of a process, called **Learning
 <li>Gathering feedback from the users and learning from it</li>
 <li>Coming up with a new hypotheses, changing your current hypotheses to a new one, or adapting your current hypotheses</li>
 
-The Learning Process is a cycle. Once you start to change your product according to the feedback you received, you have to create a new MVP or alter your current one so the users can try the MVP again and give you more feedback.
+The Learning Process is a cycle. Once you begin to make changes to your product based on the feedback you received, you need to create a new MVP or modify your existing one so that users can try it again and provide further feedback.
 
-This process can vary depending on what type of product you are making and on the size and resources of your company.
+This process can vary depending on the type of product you are developing and the size and resources of your company.
 
 <!-- Hypotheses and their importance for MVPs -->
 <h2 align="left">Hypotheses and their importance for MVPs</h2>
 
-Hypotheses shape the identity of your product. They can describe your product fundamentally by proposing a solution to a problem the market has interest in solving, or they can be about how you solve said problem, or they can be a characteristic of your product.
+Hypotheses shape the identity of your product. They can fundamentally describe your product by proposing a solution to a problem that the market is interested in solving. Alternatively, they can focus on **how** you solve that problem, or your hypothesis can simply represent a characteristic of your product
 
-The act of studying your hypotheses is called **hypotheses validation**. If your hypothesis is validated, then it means this characteristic of your product that is represented by the hypothesis has a market interested in it. This is why it is important to validate the more important hypotheses first... If you try to make a product based on a problem that the market has no interest in solving, or if the solution to that problem is not being solved in a way that the market wants to, then it means you might need to fundamentally change your product or scrap it. 
+The process of studying your hypotheses is known as **hypothesis validation**. When your hypothesis is validated, it indicates that the characteristic of your product represented by the hypothesis has a market interested in it. This is why it is crucial to validate the most important hypotheses first. If you attempt to create a product based on a problem that the market has no interest in solving, or if the solution to that problem does not align with what the market desires, it may be necessary to fundamentally change or abandon your product. 
 
 <!-- Motivation for checking out this Catalog of MVPs -->
 <h2 align="left">Motivation for checking out this Catalog of MVPs</h2>
 
-MVPs are those small effort products that are still able to validate hypotheses. It means that a MVP can help you learn if the identity of your product will have a market for it, without you spending a lot of time and money. However, knowing how your MVP should be made, and how to utilize the Learning Process is not a trivial task.
+MVPs are small-scale products that require minimal effort but can still validate hypotheses. They serve as a means to determine if the identity of your product has a market without requiring significant time and financial investment. However, understanding how to create an effective MVP and utilize the Learning Process is not an easy task.
 
-The Catalog of MVPs presented on this repository has the goal of showing real life examples of how you can use MVPs to validate your product.
+The Catalog of MVPs presented in this repository aims to provide real-life examples of how you can employ MVPs to validate your product.
 
 <!-- Types of MVPs -->
 <h2 align="left">Types of MVPs</h2>
 
 | **MVP**  | **Description** | **Examples**
 | ------------- | ------------- | ------------- |
-| **Landing Page** | A page on the internet with the goal of showing what your product is. It is often used as a complement to the real product that is being developed, to help people understand what the product is about. In some cases, the Landing Page is created before the product even exists to see if people have interest in it| <a href="#buffer">Buffer</a> |
-| **Crowdfunding** | The product is shown on a website where the target market can help fund the project, so this strategy is usually used when there is not enough money for the product to happen. In exchange, people that helped funding gain unique benefits, like being able to get in touch with the developers, give proper feedback and express their ideas, get a beta version of the product, or even get the product for free depending on how much the person helped fund it. | <a href="#oculus-rift">Oculus Rift</a> |
-| **Video**  | A video that shows your product, usually presenting its features while also selling why your idea is good deserves to be on the market | <a href="#dropbox">Dropbox</a> |
-| **Concierge**  | The entire product is done manually by people, without a functional product | <a href="#food-on-the-table">Food on the Table</a>, <a href="#airbnb">Airbnb</a> |
-| **The Wizard of Oz** | While the user can interact with the product, the backend is actually done by people without the user even noticing it | <a href="#zappos">Zappos</a>, <a href="#easy-taxi">Easy Taxi</a>, <a href="#amazon">Amazon</a> |
+| **Landing Page** | A Landing Page is a web page designed to showcase and explain your product. It is commonly used as a supplement to the actual product being developed, helping people understand its purpose and features. In certain cases, a Landing Page may be created even before the product exists, serving as a way to gauge interest and determine if there is demand for it. | <a href="#buffer">Buffer</a> |
+| **Crowdfunding** | The product is showcased on a crowdfunding website, where the target market can contribute funds to support the project. This strategy is typically employed when there is a lack of sufficient funds to bring the product to fruition. In return for their support, individuals who contribute to the funding campaign receive exclusive benefits. These benefits may include opportunities to communicate with the developers, provide valuable feedback, share ideas, gain early access to a beta version of the product, or even receive the product for free, depending on the level of their financial contribution. | <a href="#oculus-rift">Oculus Rift</a> |
+| **Video**  | A video showcasing your product, presenting its features, and effectively conveying that the value of your idea is an essential asset for the market. | <a href="#dropbox">Dropbox</a> |
+| **Concierge**  | The entire product is executed manually by individuals without a functioning product. | <a href="#food-on-the-table">Food on the Table</a>, <a href="#airbnb">Airbnb</a> |
+| **The Wizard of Oz** | Although the user can interact with the product, the backend is actually done by people without the user's awareness. | <a href="#zappos">Zappos</a>, <a href="#easy-taxi">Easy Taxi</a>, <a href="#amazon">Amazon</a> |
 | **Piecemeal** | It works like The Wizard of Oz, however the backend uses tools to facilitate the manual process | <a href="#groupon">Groupon</a> |
-| **Simple App** | The product has the least amount of features necessary to represent well the identity of the product | <a href="#facebook">Facebook</a>, <a href="#tinder">Tinder</a>, <a href="#instagram">Instagram</a>, <a href="#twitter">Twitter</a>, <a href="#spotify">Spotify</a> |
+| **Simple App** | The product has been intentionally designed with only the essential features required to effectively represent its core identity.  | <a href="#facebook">Facebook</a>, <a href="#tinder">Tinder</a>, <a href="#instagram">Instagram</a>, <a href="#twitter">Twitter</a>, <a href="#spotify">Spotify</a> |
 
 <!-- Content -->
 <h2 align="left">Content</h2>
