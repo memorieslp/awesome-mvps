@@ -314,9 +314,15 @@ A music streaming service.
 
 **Hypothesis**: People have interest in listening to their music on a single app that does not require you to download the songs and allows you to avoid the risk of dealing with viruses and wrong downloads.
 
-**Description**: A desktop app that had one feature: music streaming. Daniel Ek and Martin Lorentzon, the founders of Spotify, already knew music streaming was a validated hypothesis. However, they wanted to do it with a higher quality when compared to the market. They wanted their application to be faster, so they focused a lot on decreasing the latency of their system, to make it feel as smooth as possible. As time moved on, they added more features to the MVP to refine it to the quality they visioned.
+**Description**: A desktop app was developed by the founders of Spotify, Daniel Ek and Martin Lorentzon, with the primary feature being music streaming. They recognized that music streaming was a validated hypothesis, but they aimed to provide a higher quality experience compared to existing options in the market. A key focus of their development efforts was to reduce latency in their system, ensuring a smooth and seamless user experience. Over time, they continued to enhance the Minimum Viable Product (MVP) by incorporating additional features, refining it to match their vision of quality.
+
+**Features**: In the earlier stages of Spotify, even prior to its public release, the app had limited functionality, allowing users to listen only to a few songs that were hard-coded into the program. This served as a means for Daniel and Martin to practice and refine their approach to creating a product with superior performance compared to their competitors. The early beta versions of Spotify focused on enabling users to search for songs and listen to them, with a remarkable speed that gave the impression of having entire discographies stored on their hard drives. This exceptional performance quality set Spotify apart from other streaming services available at the time. As Spotify progressed, one of the first notable features added to the app after its initial release were the ability to create personalized playlists and the option to download songs for offline listening. These features helped solidify Spotify's position as a distinctive and sophisticated music streaming service.
 
 ![spotify_mvp](https://github.com/memorieslp/awesome-mvps/assets/42478443/b588041f-eb00-4735-a65f-329b723e7879)
+
+![spotify_sketches](https://github.com/memorieslp/awesome-mvps/assets/42478443/c4920e6a-5bd8-4d8f-abac-e06ee48606e2)
+
+*Sketches from Spotify*. Source: https://twitter.com/JonErlichman/status/1650232234266222594/photo/1 
 
 [🔼 Back to top](#content)
 
@@ -329,9 +335,9 @@ An online marketplace for homestay experiences, where you stay in a house or apa
 
 **Hypothesis**: People would like to provide their residences as a place for other people to stay.
 
-**Description**: Brian Chesky and Joe Gebbia, the founders of Aribnb, arranged a room from their apartment to look like a proper space for people to sleep at, similar to a hotel. They realized the city they lived in, San Francisco, had lots of conferences, but hotels were often full and were expensive. They decided to fix that problem by making a website where people could sleep in other people's residences. However, that idea was expensive. The founders used a conference to test this idea, using their own apartment to simulate the experiment. 
+**Description**: Brian Chesky and Joe Gebbia, the founders of Airbnb, arranged a room in their apartment to resemble a proper space for people to sleep, much like a hotel room. They recognized that their city, San Francisco, hosted numerous conferences, but hotels were frequently fully booked and costly. To address this problem, they conceived the idea of creating a website where individuals could stay in other people's homes. However, implementing this concept required significant financial resources. As a way to test the idea, the founders utilized their own home as a lodging for people to sleep at.
 
-After realizing that people had interest in it, they created a very simple website, but it was focused on people that wanted to attend tech conferences. After some testing and success, the founders started to test if people were willing to have strangers spend time at their residences, and they did that with the same focus on tech conferences. Only later, after a lot of tests and changes to their website, did the founders start to expand their customers and remove this link between their website and tech conferences.
+**Features**: The founders initially made a simple announcement promoting their apartment as a lodging option for a specific tech conference taking place in the near future. Upon observing the positive response from people, they decided to create a basic website tailored to individuals attending tech conferences, in order to streamline the process. The website primarily featured their own apartment and allowed visitors to select the duration of their stay. Recognizing the demand for more affordable accommodations compared to hotels, the founders began testing the willingness of people to host strangers in their own homes, thus paving the way for expansion beyond their own apartment. They allowed customers to choose from various registered residences throughout the city. As both sides of their target market expressed interest in the idea, the founders started to broaden their customer base and gradually phased out the association between their website and tech conferences.
 
 ![airbnb_mvp](https://github.com/memorieslp/awesome-mvps/assets/42478443/2d9f9340-9702-4a58-886f-417138ab96f3)
 
