@@ -278,9 +278,11 @@ A software that allows you to manage your social media accounts, like being able
 #### Type: Landing Page
 **Date**: 2010.
 
-**Hypothesis**: Some people would like to manage their multiple social medias through a single application
+**Hypothesis**: Some people find it convenient to have a single application for managing multiple social media accounts.
 
-**Description**: A 2 page website where the first page showed what Buffer was capable of doing, while the second one allowed the person to give their email for future information about the product. However, the app did not even exist, and the only purpose of making a Landing Page was to see if people had interest in the app, allowing Joel Gascoigne, the founder of Buffer, to gather evidence about his idea being good (or not). The Landing Page was small, simple, and explained extremely well what the product was capable of doing, which means it did not require people to invest much time on the website.
+**Description**: A two-page website was created for Buffer, where the first page showcased the capabilities of the product, while the second page provided an option for visitors to submit their email address to receive future information about the app. However, it's important to note that the app itself did not exist at that point. The purpose of creating this Landing Page was to gauge interest in the app and gather evidence to determine if the idea had potential. The Landing Page was designed to be concise, straightforward, and effectively communicated the features and benefits of the product, ensuring that visitors didn't need to invest much time in exploring the website.
+
+**Features**: The webpage first explained exactly what the product was capable of doing, but in a very concise way by giving one simple example of how you could use the application, without trying to explain every single detail in depth. The idea was that one good example would interest people more than trying to give a lot of technical terms. The second page would ask for the email of the people that had interest in the product, so they could receive new information about Buffer later.
 
 ![buffer_mvp](https://user-images.githubusercontent.com/42478443/236283241-35a975a0-766e-434d-b20a-3b705d5b8064.png)
 
@@ -295,7 +297,9 @@ A virtual reality gaming device.
 
 **Hypothesis**: Gamers have interest in buying a Virtual Reality headset. 
 
-**Description**: An announcement for crowdfunding a Virtual Reality (VR) headset at the Kickstarter website. The first prototype was made in 2011 by Palmer Luckey, then it was presented at one of the biggest gaming events at the time called E3, in 2012. The product became famous and received positive feedback at the event, so Palmer decided to crowdfund it, given that he had no resources and money to accomplish his goals. VRs were a new technology at the time and were not accessible by most people, so a lot of gamers had interest in seeing this product have success.
+**Description**: An announcement for crowdfunding a Virtual Reality (VR) headset on the Kickstarter website. The first prototype was made in 2011 by Palmer Luckey. It was then presented at one of the biggest gaming events of the time called E3, in 2012. The product gained fame and received positive feedback at the event, prompting Palmer to decide on crowdfunding. He lacked the necessary resources and funds to achieve his goals. As VR technology was still new and inaccessible to most people, there was significant interest from gamers in seeing this product succeed.
+
+**Features**: Oculus Rift utilized the Kickstarter website to showcase its prototype, and the crowdfunding page featured various elements such as project explanations, funding goals, and the benefits associated with contributing based on different funding levels. The primary aim was to provide a clear understanding of the product and its underlying technology, with a strong emphasis on the promise of bringing and popularizing Virtual Reality on the PC platform.
 
 ![oculus-rift_mvp](https://user-images.githubusercontent.com/42478443/236466646-7ca84f38-1627-4bca-9c55-4eab0ee273b6.png)
 
