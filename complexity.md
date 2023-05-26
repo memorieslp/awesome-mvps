@@ -1,4 +1,4 @@
-| **MVP**  | **Minimum Effort** | **When to use it**
+| **MVP**  | **Effort** | **When to use it**
 | ------------- | ------------- | ------------- |
 | **Landing Page** | ⭐ | The need to come up with a clever way to represent the identity of your product on a well organized web page is the hardest aspect of a Landing Page MVP. A quick way of showing your hypothesis may help a lot to validate it, even though the customers did not have any contact with a real product. The act of promising a demanding product can be enough to make people interested in it.  |
 | **Crowdfunding** | ⭐⭐ | This MVP not only needs to show well the identity of the product, but it also needs to show enough evidence that the product is possible to be made, given that people will fund your project and will demand it to exist. There is also the need to come up with a clever business plan that offers good advantages to the funders, and that shows a roadmap with goals to be achieved. When funding is hard to get, a Crowdfunding may be one of the only options to release your product. |
