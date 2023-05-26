@@ -16,7 +16,7 @@ Steve Blank, another important figure who has discussed MVPs and their significa
 *'The MVP is a group of features that is sufficient for releasing your product to the market.'* - Steve Blank.
 
 <!-- MVPs are part of a Learning Process -->
-<h2 align="left">MVPs are part of a Learning Process</h2>
+<h2 align="left">Learning Process</h2>
 
 The main advantage of MVPs is that they are part of a process, called **Learning Process** by Ries, which can be simplified as: 
 <li>Coming up with an idea (hypothesis) and a plan</li>
@@ -29,14 +29,14 @@ The Learning Process is a cycle. Once you begin to make changes to your product 
 This process can vary depending on the type of product you are developing and the size and resources of your company.
 
 <!-- Hypotheses and their importance for MVPs -->
-<h2 align="left">Hypotheses and their importance for MVPs</h2>
+<h2 align="left">Hypotheses Validation</h2>
 
 Hypotheses shape the identity of your product. They can fundamentally describe your product by proposing a solution to a problem that the market is interested in solving. Alternatively, they can focus on **how** you solve that problem, or your hypothesis can simply represent a characteristic of your product
 
 The process of studying your hypotheses is known as **hypothesis validation**. When your hypothesis is validated, it indicates that the characteristic of your product represented by the hypothesis has a market interested in it. This is why it is crucial to validate the most important hypotheses first. If you attempt to create a product based on a problem that the market has no interest in solving, or if the solution to that problem does not align with what the market desires, it may be necessary to fundamentally change or abandon your product. 
 
 <!-- Motivation for checking out this Catalog of MVPs -->
-<h2 align="left">Motivation for checking out this Catalog of MVPs</h2>
+<h2 align="left">Motivation</h2>
 
 MVPs are small-scale products that require minimal effort but can still validate hypotheses. They serve as a means to determine if the identity of your product has a market without requiring significant time and financial investment. However, understanding how to create an effective MVP and utilize the Learning Process is not an easy task.
 
@@ -79,7 +79,7 @@ The Catalog of MVPs presented in this repository aims to provide real-life examp
 
 <!-- Zappos -->
 <h2 align="left">Zappos</h2>
-Online shoe and clothing retailer store
+Online shoes and clothing retailer store
 
 #### Type: The Wizard of Oz
 **Date**: 1999.
