@@ -97,7 +97,7 @@ Pivots are…
     <li><a href="#buffer">Buffer</a></li>
     <li><a href="#oculus-rift">Oculus Rift</a></li>
     <li><a href="#spotify">Spotify</a></li>
-    <li><a href="#airbnb">Airbnb **new!**</a></li>
+    <li><a href="#airbnb">Airbnb</a></li>
   </ol>
 </details>
 
