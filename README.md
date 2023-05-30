@@ -15,7 +15,7 @@ Steve Blank, another important figure who has discussed MVPs and their significa
 
 *'The MVP is a group of features that is sufficient for releasing your product to the market.'* - Steve Blank.
 
-<!-- MVPs are part of a Learning Process -->
+<!-- Learning Process -->
 <h2 align="left">Learning Process</h2>
 
 The main advantage of MVPs is that they are part of a process, called **Learning Process** by Ries, which can be simplified as: 
@@ -35,12 +35,17 @@ Hypotheses shape the identity of your product. They can fundamentally describe y
 
 The process of studying your hypotheses is known as **hypothesis validation**. When your hypothesis is validated, it indicates that the characteristic of your product represented by the hypothesis has a market interested in it. This is why it is crucial to validate the most important hypotheses first. If you attempt to create a product based on a problem that the market has no interest in solving, or if the solution to that problem does not align with what the market desires, it may be necessary to fundamentally change or abandon your product. 
 
-<!-- Motivation for checking out this Catalog of MVPs -->
+<!-- Motivation -->
 <h2 align="left">Motivation</h2>
 
 MVPs are small-scale products that require minimal effort but can still validate hypotheses. They serve as a means to determine if the identity of your product has a market without requiring significant time and financial investment. However, understanding how to create an effective MVP and utilize the Learning Process is not an easy task.
 
 The Catalog of MVPs presented in this repository aims to provide real-life examples of how you can employ MVPs to validate your product.
+
+<!-- Pivots -->
+<h2 align="left">Pivots</h2>
+
+Pivots are… 
 
 <!-- Types of MVPs -->
 <h2 align="left">Types of MVPs</h2>
@@ -64,6 +69,15 @@ The Catalog of MVPs presented in this repository aims to provide real-life examp
 | **The Wizard of Oz** | ⭐⭐⭐⭐ | Some products' biggest challenges are the implementations of robust and expensive backend operations. Even though most of the product can be made and be well represented, the backend can be too much effort for the developers. Making the backend be manual without the customers noticing it, is a hard but needed challenge that can alleviate the complexity of a real system. |
 | **Piecemeal** | ⭐⭐⭐⭐ | Piecemeal faces the same philosophy as The Wizard of Oz, and being able to use external tools to help the backend process can make the system way easier to implement. |
 | **Simple App** | ⭐⭐⭐⭐⭐  | Some systems are based on complex hypotheses that demand a more sophisticated product right at the beginning of the project. A Simple App needs to focus only at the features that really validate the identity of the product, more than any other MVP, because almost the entire product is already functional. |
+
+<!-- Types of Pivots-->
+<h2 align="left">Types of Pivots</h2>
+
+| **Pivot**  | **Description** | **Examples**
+| ------------- | ------------- | ------------- |
+| **Zoom-In** | The project starts to focus on just one feature or on a few features that were present in the original product, reducing the scope and complexity of the original idea. | <a href="#instagram">Instagram</a> |
+| **Customer Need** | The project changes its current solution to a different one, in order to deliver a product that better fulfills the target market needs. | <a href="#groupon">Groupon</a> |
+| **Customer Segment** | The project changes its current target market to a new one, or the current target market is reduced to a portion of it, or increased to a much broader scale. | <a href="#airbnb">Airbnb</a> |
 
 <!-- Content -->
 <h2 align="left">Content</h2>
@@ -192,7 +206,7 @@ A social network focused on sharing photos and videos.
 
 **Hypothesis**: People are interested in sharing their meetings at public places.
 
-**Description**: Initially known as Burbn, the app aimed to enable users to share their experiences at public places while incorporating gamification elements such as scoring points for posting a meeting. However, Burbn did not achieve significant success. Following a careful analysis of user feedback, the founders identified that the photo-sharing feature was particularly well-received by users. This realization led to a strategic shift known as the Zoom-In pivot, resulting in a rebranding of the app as Instagram and a narrowed focus on the photo-sharing functionality. Recognizing the strong appeal of photo sharing, the founders sought to make the process of sharing pictures easy and accessible to all users. They introduced straightforward filters that did not require any specialized knowledge of photo editing. By simplifying the photo-sharing experience and emphasizing user-friendly features, the founders believed that Instagram could thrive as a standalone social media platform centered around visual content.
+**Description**: Initially known as Burbn, the app aimed to enable users to share their experiences at public places while incorporating gamification elements such as scoring points for posting a meeting. However, Burbn did not achieve significant success. Following a careful analysis of user feedback, the founders identified that the photo-sharing feature was particularly well-received by users. This realization led to a strategic shift known as the **Zoom-In pivot**, resulting in a rebranding of the app as Instagram and a narrowed focus on the photo-sharing functionality. Recognizing the strong appeal of photo sharing, the founders sought to make the process of sharing pictures easy and accessible to all users. They introduced straightforward filters that did not require any specialized knowledge of photo editing. By simplifying the photo-sharing experience and emphasizing user-friendly features, the founders believed that Instagram could thrive as a standalone social media platform centered around visual content.
 
 **Features**: Users had the ability to create profiles on Instagram, providing personal descriptions and profile photos to represent themselves to their added friends. The platform featured a feed that displayed photographs posted by their friends. These pictures could undergo simple alterations such as resizing, adjusting saturation and colors, and applying various filters that could significantly change the tone and ambiance of the image. This allowed users to easily modify their photographs without the need for a complex photo editor like Photoshop, making it accessible to individuals without professional editing skills.The ability to like your friend's photo and make comments made users engage with each other by sharing their thoughts.
 
@@ -249,7 +263,7 @@ An e-commerce marketplace where you can hire and visit local services.
 
 **Hypothesis**: People would like to find places to visit and services to hire with ease and with a cheaper price.
 
-**Description**: A website where people receive coupons on their emails, however the backend was done manually with the help of external tools. Groupon was first called The Point, and it was a website where people utilized social media to support causes or work towards common goals. However, Andrew Mason, the founder, recognized that users were leveraging the platform to form groups and collectively purchase products with the aim of obtaining discounts. A Customer Need pivot happened, where Andrew decided to solve a problem from his customers that he did not think about, which was the ability to get discounts for products and services. Groupon started as a simple solution. Initially, it would manually send emails to individuals working in the same building as Andrew, offering them coupon discounts for the pizza restaurant located in the same building. However, as Groupon gained traction, the backend operations evolved. External tools and scripts were incorporated to automate the process of sending coupons to buyers, streamlining the website's operations and scaling its coupon delivery system.
+**Description**: A website where people receive coupons on their emails, however the backend was done manually with the help of external tools. Groupon was first called The Point, and it was a website where people utilized social media to support causes or work towards common goals. However, Andrew Mason, the founder, recognized that users were leveraging the platform to form groups and collectively purchase products with the aim of obtaining discounts. A **Customer Need pivot** happened, where Andrew decided to solve a problem from his customers that he did not think about, which was the ability to get discounts for products and services. Groupon started as a simple solution. Initially, it would manually send emails to individuals working in the same building as Andrew, offering them coupon discounts for the pizza restaurant located in the same building. However, as Groupon gained traction, the backend operations evolved. External tools and scripts were incorporated to automate the process of sending coupons to buyers, streamlining the website's operations and scaling its coupon delivery system.
 
 **Features**: The Point boasted a range of features. Users could create accounts, explore and join campaigns, as well as establish their own campaigns. Additionally, they could participate in communities to engage in discussions related to these campaigns. In contrast, the initial MVP for Groupon was significantly simpler. It's only feature was the ability to send emails to Andrew's colleagues, offering them discount coupons. However, as Groupon progressed, it evolved into a more advanced version—an MVP in the form of a Simple App. This iteration introduced features such as coupon search functionality, enabling users to find available coupons for various products and services. The website abstracted the concept of a physical coupon by presenting discounted products and services directly, with the discount itself acting as the virtual coupon that customers could utilize for savings.
 
@@ -347,7 +361,7 @@ An online marketplace for homestay experiences, where you stay in a house or apa
 
 **Description**: Brian Chesky and Joe Gebbia, the founders of Airbnb, arranged a room in their apartment to resemble a proper space for people to sleep, much like a hotel room. They recognized that their city, San Francisco, hosted numerous conferences, but hotels were frequently fully booked and costly. To address this problem, they conceived the idea of creating a website where individuals could stay in other people's homes. However, implementing this concept required significant financial resources. As a way to test the idea, the founders utilized their own home as a lodging for people to sleep at.
 
-**Features**: The founders initially made a simple announcement promoting their apartment as a lodging option for a specific tech conference taking place in the near future. Upon observing the positive response from people, they decided to create a basic website tailored to individuals attending tech conferences, in order to streamline the process. The website primarily featured their own apartment and allowed visitors to select the duration of their stay. Recognizing the demand for more affordable accommodations compared to hotels, the founders began testing the willingness of people to host strangers in their own homes, thus paving the way for expansion beyond their own apartment. They allowed customers to choose from various registered residences throughout the city. As both sides of their target market expressed interest in the idea, the founders started to broaden their customer base and gradually phased out the association between their website and tech conferences.
+**Features**: The founders initially made a simple announcement promoting their apartment as a lodging option for a specific tech conference taking place in the near future. Upon observing the positive response from people, they decided to create a basic website tailored to individuals attending tech conferences, in order to streamline the process. The website primarily featured their own apartment and allowed visitors to select the duration of their stay. Recognizing the demand for more affordable accommodations compared to hotels, the founders began testing the willingness of people to host strangers in their own homes, thus paving the way for expansion beyond their own apartment. They allowed customers to choose from various registered residences throughout the city. As both sides of their target market expressed interest in the idea, the founders started to broaden their customer base by doing a **Customer Segment pivot** and gradually phased out the association between their website and tech conferences.
 
 ![airbnb_mvp](https://github.com/memorieslp/awesome-mvps/assets/42478443/2d9f9340-9702-4a58-886f-417138ab96f3)
 
