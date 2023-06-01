@@ -151,6 +151,8 @@ Online social networking service.
 
 **Hypothesis**: Students would like to share their university experiences through a social website that connects people.
 
+**Pivot**: Customer Segment.
+
 **Description**: The initial concept was a social media website specifically designed for Harvard students to connect with others they had encountered on campus, fostering discussions and sharing experiences related to the university. In 2003, Mark Zuckerberg, the founder of Facebook, created a website called Face Share, which allowed people to vote on the most beautiful students at Harvard. However, it was primarily intended as a joke and was eventually taken down by the university. Nevertheless, this experience served as inspiration for Zuckerberg to explore the idea of utilizing the internet to facilitate student engagement, leading to the development of his first true minimum viable product (MVP) called The Facebook.
 
 **Features**: Facebook allowed students to create accounts with profile pictures and descriptions about themselves. Users could add and remove friends, as well as engage with groups to have discussions about their university experiences. It created a sense of community for the students and felt like a social extension of their time on campus.
@@ -170,6 +172,8 @@ Online dating app.
 **Date**: 2012.
 
 **Hypothesis**: People would like to easily arrange a date and set up a meeting.
+
+**Pivot**: Customer Segment.
 
 **Description**: The app in question is a dating-focused platform where users create profiles to connect with potential matches. If two profiles express mutual interest, they achieve a match, granting them the ability to communicate and potentially arrange an in-person date. Originally named MatchBox, the app eventually evolved into what we now know as Tinder. Its core features remained largely unchanged over time due to its initial success and the effectiveness of its focused and simplistic approach. From its early days, the app demonstrated great appeal among university students. Initially, users could express their interest by liking or disliking other profiles. However, within just one year of its first minimum viable product (MVP), the developers introduced a unique and iconic feature: the swipe. Replacing the like and dislike buttons, the swipe feature allowed users to swipe right to express interest (like) or swipe left to indicate disinterest (dislike). This innovation not only accelerated the process of expressing interest in another person but also gave Tinder its distinctive identity. The swipe feature set Tinder apart from other dating apps at the time, contributing to its widespread popularity.
 
@@ -192,6 +196,8 @@ Mobile App for taxi hailing.
 
 **Hypothesis**: People would like a service that arranges a taxi for them.
 
+**Pivot**: Platform Device.
+
 **Description**: A web page that served as a platform for individuals to request a cab, with the backend being handled manually. Customers would place their taxi orders through the Easy Taxi website by providing their address and name. This generated an email notification sent to the founders, containing the customer's provided information. The founders would then use this information to contact a cab company and arrange the pick-up.This approach eliminated the need for the development of a complex system that tracks the user's location or automatically assigns a taxi driver based on the customer's address. By utilizing this manual process, the founders were able to validate their hypothesis in a simpler and cost-effective manner, without the requirement for a sophisticated infrastructure. Later on, the company would undergo an **Platform Device pivot**, transitioning its system to a mobile platform. This change aimed to make it easier for users to request cabs from anywhere and at any time.
 
 **Features**: The website had a single feature, which allowed users to call a taxi to their location by providing some basic information such as their name, email, location, destination, and even the color of their outfit. Once the details were submitted, users simply had to wait for the cab to arrive. While the website provided a level of convenience to customers, it did require some effort as users had to enter their personal information each time they requested a cab. Additionally, the user interface was primarily designed for desktop usage, which limited the overall user experience. Although the convenience provided by the website was not at the level the founders of Easy Taxi aspired to deliver to their customers, it was sufficient for testing their hypothesis. The focus at that stage was to determine if their concept would resonate with users and meet their needs.
@@ -209,6 +215,8 @@ A social network focused on sharing photos and videos.
 **Date**: 2010.
 
 **Hypothesis**: People are interested in sharing their meetings at public places.
+
+**Pivot**: Zoom-In.
 
 **Description**: Initially known as Burbn, the app aimed to enable users to share their experiences at public places while incorporating gamification elements such as scoring points for posting a meeting. However, Burbn did not achieve significant success. Following a careful analysis of user feedback, the founders identified that the photo-sharing feature was particularly well-received by users. This realization led to a strategic shift known as the **Zoom-In pivot**, resulting in a rebranding of the app as Instagram and a narrowed focus on the photo-sharing functionality. Recognizing the strong appeal of photo sharing, the founders sought to make the process of sharing pictures easy and accessible to all users. They introduced straightforward filters that did not require any specialized knowledge of photo editing. By simplifying the photo-sharing experience and emphasizing user-friendly features, the founders believed that Instagram could thrive as a standalone social media platform centered around visual content.
 
@@ -266,6 +274,8 @@ An e-commerce marketplace where you can hire and visit local services.
 **Date**: 2007.
 
 **Hypothesis**: People would like to find places to visit and services to hire with ease and with a cheaper price.
+
+**Pivot**: Customer Need.
 
 **Description**: A website where people receive coupons on their emails, however the backend was done manually with the help of external tools. Groupon was first called The Point, and it was a website where people utilized social media to support causes or work towards common goals. However, Andrew Mason, the founder, recognized that users were leveraging the platform to form groups and collectively purchase products with the aim of obtaining discounts. A **Customer Need pivot** happened, where Andrew decided to solve a problem from his customers that he did not think about, which was the ability to get discounts for products and services. Groupon started as a simple solution. Initially, it would manually send emails to individuals working in the same building as Andrew, offering them coupon discounts for the pizza restaurant located in the same building. However, as Groupon gained traction, the backend operations evolved. External tools and scripts were incorporated to automate the process of sending coupons to buyers, streamlining the website's operations and scaling its coupon delivery system.
 
@@ -342,6 +352,8 @@ A music streaming service.
 
 **Hypothesis**: People have interest in listening to their music on a single app that does not require you to download the songs and allows you to avoid the risk of dealing with viruses and wrong downloads.
 
+**Pivot**: Value Capture.
+
 **Description**: A desktop app was developed by the founders of Spotify, Daniel Ek and Martin Lorentzon, with the primary feature being music streaming. They recognized that music streaming was a validated hypothesis, but they aimed to provide a higher quality experience compared to existing options in the market. A key focus of their development efforts was to reduce latency in their system, ensuring a smooth and seamless user experience. Over time, they continued to enhance the Minimum Viable Product (MVP) by incorporating additional features, refining it to match their vision of quality.
 
 **Features**: In the earlier stages of Spotify, even prior to its public release, the app had limited functionality, allowing users to listen only to a few songs that were hard-coded into the program. This served as a means for Daniel and Martin to practice and refine their approach to creating a product with superior performance compared to their competitors. The early beta versions of Spotify focused on enabling users to search for songs and listen to them, with a remarkable speed that gave the impression of having entire discographies stored on their hard drives. This exceptional performance quality set Spotify apart from other streaming services available at the time. As Spotify progressed, one of the first notable features added to the app after its initial release were the ability to create personalized playlists and the option to download songs for offline listening. These features helped solidify Spotify's position as a distinctive and sophisticated music streaming service. 
@@ -364,6 +376,8 @@ An online marketplace for homestay experiences, where you stay in a house or apa
 **Date**: 2007.
 
 **Hypothesis**: People would like to provide their residences as a place for other people to stay.
+
+**Pivot**: Customer Segment.
 
 **Description**: Brian Chesky and Joe Gebbia, the founders of Airbnb, arranged a room in their apartment to resemble a proper space for people to sleep, much like a hotel room. They recognized that their city, San Francisco, hosted numerous conferences, but hotels were frequently fully booked and costly. To address this problem, they conceived the idea of creating a website where individuals could stay in other people's homes. However, implementing this concept required significant financial resources. As a way to test the idea, the founders utilized their own home as a lodging for people to sleep at.
 
