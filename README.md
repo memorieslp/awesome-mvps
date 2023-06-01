@@ -45,7 +45,7 @@ The Catalog of MVPs presented in this repository aims to provide real-life examp
 <!-- Pivots -->
 <h2 align="left">Pivots</h2>
 
-By engaging in the learning process, we can gain a deeper understanding of our product's market and validate our key hypotheses. This understanding can then drive actions that may necessitate significant changes in the project, known as pivots. Pivots involve making substantial alterations to how a product operates, aligning it with a new vision that has been shaped by the evolving set of hypotheses.
+By engaging in the Learning Process, we can gain a deeper understanding of our product's market and validate our key hypotheses. This understanding can then drive actions that may necessitate significant changes in the project, known as pivots. Pivots involve making substantial alterations to how a product operates, aligning it with a new vision that has been shaped by the evolving set of hypotheses.
 
 <!-- Types of MVPs -->
 <h2 align="left">Types of MVPs</h2>
