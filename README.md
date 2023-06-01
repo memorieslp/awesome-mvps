@@ -45,7 +45,7 @@ The Catalog of MVPs presented in this repository aims to provide real-life examp
 <!-- Pivots -->
 <h2 align="left">Pivots</h2>
 
-Pivots are… 
+By engaging in the learning process, we can gain a deeper understanding of our product's market and validate our key hypotheses. This understanding can then drive actions that may necessitate significant changes in the project, known as pivots. Pivots involve making substantial alterations to how a product operates, aligning it with a new vision that has been shaped by the evolving set of hypotheses.
 
 <!-- Types of MVPs -->
 <h2 align="left">Types of MVPs</h2>
@@ -75,9 +75,10 @@ Pivots are…
 
 | **Pivot**  | **Description** | **Examples**
 | ------------- | ------------- | ------------- |
-| **Zoom-In** | The project starts to focus on just one feature or on a few features that were present in the original product, reducing the scope and complexity of the original idea. | <a href="#instagram">Instagram</a> |
-| **Customer Need** | The project changes its current solution to a different one, in order to deliver a product that better fulfills the target market needs. | <a href="#groupon">Groupon</a> |
-| **Customer Segment** | The project changes its current target market to a new one, or the current target market is reduced to a portion of it, or increased to a much broader scale. | <a href="#airbnb">Airbnb</a> |
+| **Zoom-In** | The project starts to focus on just one or a few features that were present in the original product, reducing the scope and complexity of the initial idea. | <a href="#instagram">Instagram</a> |
+| **Customer Need** | The project shifts its current solution to a different one in order to deliver a product that better fulfills the needs of the target market. | <a href="#groupon">Groupon</a> |
+| **Customer Segment** | The project adjusts its current target market, either narrowing it down to a specific segment or expanding it to a broader audience. | <a href="#airbnb">Airbnb</a> |
+
 
 <!-- Content -->
 <h2 align="left">Content</h2>
