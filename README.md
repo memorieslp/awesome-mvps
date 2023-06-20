@@ -122,7 +122,7 @@ Online shoes and clothing retailer store
 
 <!-- Dropbox -->
 <h2 align="left">Dropbox</h2>
-File hosting service
+File hosting service.
 
 #### Type: Video
 **Date**: 2008.
